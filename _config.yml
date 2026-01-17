@@ -1,0 +1,26 @@
+title: BEMA Discipleship Archive
+description: Transcripts, summaries, and study materials from the BEMA Discipleship podcast
+
+# Enable relative links plugin - converts .md links to .html on the rendered site
+# while keeping .md links intact for repository view
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+# Use a clean theme
+remote_theme: pages-themes/primer@v0.6.0
+
+# Markdown rendering
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Exclude files from the site
+exclude:
+  - CLAUDE.md
+  - LICENSE
+  - "*.pdf"
