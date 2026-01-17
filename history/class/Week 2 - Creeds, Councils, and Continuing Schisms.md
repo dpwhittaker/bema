@@ -7,54 +7,9 @@ If the church had already lost its Jewish teachers by the early second century, 
 
 ---
 
-## Part 1: The Constantinian Shift (AD 313)
+## Part 1: The Jerusalem Council (AD 49) — The Standard We Lost
 
-### From Persecution to Power
-In AD 312, Constantine had a vision before the Battle of Milvian Bridge. He saw a cross in the sky with the words "In this sign, conquer." He ordered his soldiers to paint the Chi-Rho symbol (☧) on their shields. He won the battle and attributed his victory to the Christian God.
-
-In AD 313, Constantine issued the Edict of Milan, legalizing Christianity throughout the Roman Empire.
-
-**What Actually Happened:**
-Constantine did NOT:
-- Make Christianity the official religion (that came later under Theodosius)
-- Convert immediately (he was baptized on his deathbed)
-- Force anyone to become Christian
-
-Constantine DID:
-- End persecution of Christians
-- Grant Christians legal protections
-- Fund church buildings
-- Involve himself in church disputes
-- Use Christianity to unify a fragmenting empire
-
-### The Flood of Convenience Converts
-When Christianity went from persecuted minority to imperial favor, everything changed:
-- No longer a cost to being Christian—now there were benefits
-- Court officials, soldiers, merchants became "Christian" for social advancement
-- Genuine believers mixed with those who saw Christianity as politically expedient
-- Church membership exploded but depth of commitment plummeted
-
-**The Gnostic Crisis Returns:**
-During persecution, there was no time for theological speculation. Survival required focus on essentials. But when persecution ended and masses of half-educated converts flooded in, Gnostic ideas returned with force:
-- What is the relationship between spirit and matter?
-- How could Jesus be both God and human?
-- Is the material world good or evil?
-
-The church needed to define orthodoxy. But they would do it without Jewish teachers, using Greek philosophical categories, in a context where Gnostic assumptions were already deeply embedded in the culture.
-
-### **DISCUSSION BREAK**
-
-1. Constantine legalized Christianity but did not make it the official religion. Why does this distinction matter? What changed when Christianity went from persecuted minority to imperial favor?
-
-2. During persecution, the church focused on survival and essentials. When persecution ended and masses of converts flooded in, Gnostic questions returned. What does this tell us about the relationship between cultural pressure and theological clarity?
-
----
-
-## Part 2: A Different Model — The Jerusalem Council (Acts 15)
-
-Before we examine the great councils of the fourth and fifth centuries, we need to ask: Was there ever a different way? Did the early church have a model for resolving theological disputes that aimed at unity rather than precision?
-
-There was. And we find it in the Jerusalem Council.
+The story of the church's fracturing begins with unity. Before examining what went wrong, we must see what went right.
 
 ### The Crisis (Acts 15:1-5)
 Some believers from Judea came to Antioch teaching: "Unless you are circumcised according to the custom of Moses, you cannot be saved." This was not a minor dispute—it struck at the heart of the gospel. Paul and Barnabas had "no small dissension and debate" with them.
@@ -110,6 +65,12 @@ Notice the remarkable claim in verse 28: "It seemed good to the Holy Spirit and 
 - Scripture confirming what God was doing
 - Consensus among the apostles and elders
 
+**This Is the Standard.**
+
+Everything that follows is a departure from this model. The question we must ask throughout the rest of this study is: Why did the church abandon the Jerusalem Standard?
+
+The answer involves two intertwined threads: **Greek philosophy** and **anti-Semitism**. Watch how these two forces work together to reshape Christianity in the image of empire rather than the image of the Jerusalem Council.
+
 ### **DISCUSSION BREAK**
 
 1. The Jerusalem Council sought the *minimum* requirements for fellowship. Why this approach? What would have happened if they had demanded Gentiles be circumcised and keep all Torah?
@@ -122,11 +83,170 @@ Notice the remarkable claim in verse 28: "It seemed good to the Holy Spirit and 
 
 ---
 
-## Part 3: The Great Councils — A Different Path
+## Part 2: The Seeds of Adversus Judaeos (2nd-3rd Centuries)
 
-Three centuries after the Jerusalem Council, the church faced new crises requiring theological decisions. But by this time, the Jewish teachers were gone. The councils would take a very different approach.
+After the betrayal of AD 114-120, Gentile Christianity not only lost its Jewish teachers—it turned against them. A theological tradition emerged that would poison Christian theology for centuries: *Adversus Judaeos* (Against the Jews).
 
-### Council of Nicaea (AD 325) - The Nature of Christ
+### The Deicide Charge
+
+The most damaging development was the charge of deicide: that the Jews killed God. This went far beyond the New Testament's nuanced accounts of Jesus's execution (which involved Roman power, temple authorities, and mob dynamics) and instead blamed all Jews, for all time, for the death of Christ.
+
+### The Early Architects of Anti-Semitism
+
+**The Epistle of Barnabas (c. AD 130)**
+- Unknown author, falsely attributed to Paul's companion Barnabas
+- Argued that Jews never had a valid covenant with God
+- Claimed Christians, not Jews, are the true Israel
+- "Their covenant was broken... and ours was sealed"
+- Taught that Jewish interpretation of Torah was always wrong, always literal, always missing the point
+
+**Justin Martyr (c. AD 100-165)**
+- Christian apologist and philosopher
+- Wrote *Dialogue with Trypho*, presenting a debate with a Jewish teacher
+- Argued that God's covenant with Israel was superseded and invalidated
+- Claimed Jewish suffering (especially after Bar Kokhba) was divine punishment for rejecting and killing Christ
+- Introduced the idea that the Old Testament can only be understood through Christ, rendering Jewish interpretation illegitimate
+
+**Melito of Sardis (d. c. AD 180)**
+- Bishop of Sardis in Asia Minor
+- Delivered the *Peri Pascha* (On Passover) homily, one of the earliest Christian Passover sermons
+- **First clear articulation of deicide**: "God has been murdered... the King of Israel has been slain by an Israelite hand"
+- Declared: "Israel is a worthless vine... You cast down your Lord, you were cast down to earth. And you lie dead, but he rose from the dead."
+- Blamed all Jews collectively for crucifying Christ
+
+**Tertullian (c. AD 155-220)**
+- North African theologian and apologist
+- Wrote *Adversus Judaeos* (Against the Jews), establishing the genre
+- Argued that Jews are permanently rejected by God for killing Christ
+- Claimed Christians have replaced Jews as God's chosen people
+- Taught that Jewish law was only a temporary measure, now obsolete
+- Used Hebrew Scripture as a weapon against Jewish interpretation
+
+### What Was Happening
+
+Notice the pattern:
+- **First**, lose the Jewish teachers (AD 114-120)
+- **Second**, delegitimize Jewish interpretation of Scripture
+- **Third**, claim Christian interpretation is the only valid reading
+- **Fourth**, blame Jews for killing Christ
+- **Fifth**, argue this crime merits permanent divine rejection
+
+By the early third century—**before** Constantine, **before** Nicaea—the theological foundation for anti-Semitism was already laid.
+
+### The Gnostic Connection
+
+This anti-Jewish theology worked hand-in-hand with Gnostic assumptions:
+- **Gnosticism** taught that the material world is evil, created by an inferior deity
+- **Marcionism** wanted to reject the Old Testament entirely, claiming the God of Israel was not the Father of Jesus
+- **Adversus Judaeos** kept the Old Testament but claimed Jews never understood it
+
+The church rejected Marcion's extreme position but absorbed his functional anti-Semitism. We kept the Hebrew Scriptures but stripped them of Jewish meaning.
+
+### **DISCUSSION BREAK**
+
+1. The Epistle of Barnabas claimed "their covenant was broken... and ours was sealed." How does this supersessionist theology (replacement theology) contradict Paul's argument in Romans 9-11 that God has not rejected Israel?
+
+2. Melito of Sardis was the first to clearly articulate deicide: "God has been murdered... by an Israelite hand." How did this theological move—blaming all Jews collectively for Christ's death—set the stage for centuries of violence against Jewish communities?
+
+3. The pattern: lose Jewish teachers → delegitimize Jewish interpretation → claim exclusive Christian interpretation → blame Jews for deicide → argue for divine rejection. How does each step make the next one possible?
+
+4. The church rejected Marcion but absorbed his functional anti-Semitism. What's the difference between rejecting the Old Testament outright vs. keeping it but claiming Jews never understood it?
+
+---
+
+## Part 3: The Constantinian Shift (AD 313)
+
+### Constantine's Vision
+
+In AD 312, Constantine had a vision before the Battle of Milvian Bridge. He saw a cross in the sky with the words "In this sign, conquer." He ordered his soldiers to paint the Chi-Rho symbol (☧) on their shields. He won the battle and attributed his victory to the Christian God.
+
+In AD 313, Constantine issued the Edict of Milan, legalizing Christianity throughout the Roman Empire.
+
+**What Actually Happened:**
+Constantine did NOT:
+- Make Christianity the official religion (that came later under Theodosius)
+- Convert immediately (he was baptized on his deathbed)
+- Force anyone to become Christian
+
+Constantine DID:
+- End persecution of Christians
+- Grant Christians legal protections
+- Fund church buildings
+- Involve himself in church disputes
+- Use Christianity to unify a fragmenting empire
+
+### Constantine's Treatment of Jews vs. Christians
+
+But notice: Constantine's tolerance extended to Christians, not to Jews.
+
+**For Christians:**
+- Legal protection from persecution
+- Freedom to worship publicly
+- Imperial funding for church buildings
+- Exemption from certain taxes for clergy
+- Sunday (the Lord's Day) made a day of rest
+
+**For Jews:**
+- Prohibited from circumcising slaves (making it harder to maintain Jewish households)
+- Prohibited from converting Christians to Judaism (punishable by death)
+- Prohibited from preventing Jewish converts to Christianity from leaving the community
+- Jewish-Christian marriages increasingly restricted
+- Jews barred from holding certain public offices
+
+**The Letter to Bishops After Nicaea (AD 325):**
+Constantine wrote to churches about the date of Easter, revealing his attitude toward Jews:
+
+> "It was declared to be particularly unworthy for this, the holiest of all festivals, to follow the custom of the Jews, who had soiled their hands with the most fearful of crimes, and whose minds were blinded... We ought not, therefore, to have anything in common with the Jews... In unanimously adopting this mode, we desire, dearest brethren, to separate ourselves from the detestable company of the Jews..."
+
+Notice: This is the emperor who convened Nicaea writing to bishops, telling them to separate from Jews. The message was clear: Jews are "detestable," guilty of "the most fearful of crimes" (deicide), and Christians must have "nothing in common" with them.
+
+**The Irony:**
+Constantine ended Christian persecution but intensified Jewish marginalization. He used Christianity to unify the empire but excluded the people from whom Christianity came.
+
+By the time of Nicaea (AD 325), the two threads were already woven together:
+1. **Greek philosophy** as the method of theological discourse
+2. **Anti-Semitism** as the assumed framework
+
+The stage was set for councils that would be conducted in Greek categories, without Jewish voices, with explicit imperial directive to separate from Jewish practice.
+
+### The Flood of Convenience Converts
+When Christianity went from persecuted minority to imperial favor, everything changed:
+- No longer a cost to being Christian—now there were benefits
+- Court officials, soldiers, merchants became "Christian" for social advancement
+- Genuine believers mixed with those who saw Christianity as politically expedient
+- Church membership exploded but depth of commitment plummeted
+
+**The Gnostic Crisis Returns:**
+During persecution, there was no time for theological speculation. Survival required focus on essentials. But when persecution ended and masses of half-educated converts flooded in, Gnostic ideas returned with force:
+- What is the relationship between spirit and matter?
+- How could Jesus be both God and human?
+- Is the material world good or evil?
+
+The church needed to define orthodoxy. But they would do it without Jewish teachers, using Greek philosophical categories, in a context where Gnostic assumptions were already deeply embedded in the culture.
+
+### **DISCUSSION BREAK**
+
+1. Constantine legalized Christianity but did not make it the official religion. Why does this distinction matter? What changed when Christianity went from persecuted minority to imperial favor?
+
+2. Constantine ended Christian persecution but intensified Jewish marginalization. He told bishops to separate from "the detestable company of the Jews." How did having an anti-Semitic emperor convene the Council of Nicaea affect the church's trajectory?
+
+3. During persecution, the church focused on survival and essentials. When persecution ended and masses of converts flooded in, Gnostic questions returned. What does this tell us about the relationship between cultural pressure and theological clarity?
+
+4. By AD 325, two threads were already woven together: Greek philosophy as method, anti-Semitism as framework. How do these two forces work together? How might anti-Semitism make Greek philosophy more attractive (since it doesn't require Jewish interpretation)?
+
+---
+
+## Part 4: The Great Councils — Jewish Thought vs. Greek Thought
+
+Three centuries after the Jerusalem Council, the church convened councils to address heresies. But the context had changed:
+- Jewish teachers were gone
+- Anti-Jewish theology was established
+- Greek philosophy was the default method
+- The emperor was explicitly anti-Semitic
+
+The great debates of these councils were not just about doctrine. They were about **whether Christianity would be shaped by Hebrew categories or Greek categories.** And because the Jewish voice was silenced, Greek categories won—even when the "orthodox" position was more aligned with Jewish thought.
+
+### Council of Nicaea (AD 325) — The Battleground: Trinity
 
 **The Question:** Is Jesus fully God, or is he a created being?
 
@@ -134,9 +254,39 @@ Three centuries after the Jerusalem Council, the church faced new crises requiri
 - **Arius** argued Jesus was the highest of all created beings but not co-eternal with the Father
   - "There was a time when he was not"
   - Jesus was divine but not fully God
+  - **This is more Greek**: fits with Platonic hierarchy of being (the One → emanations → created order)
+
 - **Athanasius** argued Jesus was "of the same substance" (*homoousios*) as the Father
   - Fully God, co-eternal with the Father
   - Not created but begotten
+  - **This is more Jewish**: aligns with "The LORD and his Anointed" (Psalm 2), "I and the Father are one" (John 10:30)
+
+**The Deeper Debate:**
+This wasn't just about Christ's nature. It was about **Jewish thought vs. Greek thought.**
+
+**Arius represented Greek philosophy:**
+- Hierarchy of being (One God → lesser divine beings → creation)
+- Jesus as a "middle being" between God and creation
+- Fits Platonic emanationism
+- The divine is so transcendent it cannot directly touch matter
+
+**Athanasius represented (distorted) Jewish thought:**
+- One God who can be present in multiple ways
+- Jesus is YHWH in human form
+- The Shema allows for complex unity
+- God can and does enter the material world
+
+**The Irony:**
+Athanasius's position was closer to Jewish monotheism properly understood. But because Jewish teachers were gone, he had to argue using **Greek philosophical categories** (substance, essence, being).
+
+So even though Athanasius's **conclusion** was more biblical, his **method** was still Greek.
+
+**What a Jewish Approach Might Have Said:**
+"Jesus is the Word made flesh, the radiance of God's glory, the exact representation of God's being. He is LORD—the same title used for YHWH in the Septuagint. When you see Jesus, you see the Father. The Father and the Son are echad (אחד)—a complex unity like 'the two shall become one flesh.' This is who the Messiah is. Now follow him."
+
+No *ousia*, no *hypostasis*, no metaphysical formulas. Just scriptural language and relational unity.
+
+**But That's Not What Happened.**
 
 **The Decision:**
 The Council of Nicaea sided with Athanasius and produced the Nicene Creed. Here is the full text (Nicene-Constantinopolitan form, AD 381), with Greek philosophical terms in bold:
@@ -192,11 +342,13 @@ The difference between *homoousios* (same substance) and *homoiousios* (similar 
 
 ### **DISCUSSION BREAK**
 
-1. The Council of Nicaea used the Greek word *homoousios* ("of the same substance") to define Christ's relationship to the Father. Why was philosophical precision necessary? What might have been lost in translating Jewish categories into Greek philosophy?
+1. Arius represented Greek philosophy (hierarchy of being, Jesus as middle being); Athanasius represented Jewish thought (one God present in multiple ways). Yet Athanasius still argued using Greek categories (*homoousios*, substance, essence). What was gained and what was lost in this compromise?
 
-2. The text argues that the councils were "fighting heresy using the same philosophical categories that produced the heresy." What does this mean? Can you fight Gnosticism while using Gnostic categories?
+2. The text suggests that without Jewish teachers, even the "orthodox" position had to use Greek method. Can you have a biblical conclusion with an unbiblical method? Does the method shape the conclusion over time?
 
-3. Gnosticism taught that matter is evil and spirit is good. How might this assumption have influenced the debates about Christ's nature? What would a fully Jewish (non-Gnostic) Christology look like?
+3. A Jewish approach might have said: "The Father and Son are *echad* (אחד)—complex unity, like 'two become one flesh.'" How is this different from Greek *homoousios* (same substance)? Why does the difference matter?
+
+4. Over one Greek letter (iota), Christians excommunicated each other and emperors exiled bishops. Arian Christianity was completely eliminated. Was philosophical precision worth this cost? Or did the absence of Jewish wisdom make the church miss a third option: unity in diversity (Jerusalem Standard)?
 
 ### Council of Constantinople (AD 381) - The Holy Spirit
 
@@ -327,7 +479,7 @@ One approach creates space for unity. The other creates barriers to communion.
 
 ---
 
-## Part 4: Abandoning the Jerusalem Standard
+## Part 5: Abandoning the Jerusalem Standard
 
 The Jerusalem Council said: "It seemed good to the Holy Spirit and to us to impose on you **no further burden**."
 
@@ -440,7 +592,7 @@ We cannot know for certain. But the Jerusalem Council stands as a witness that a
 
 ---
 
-## Part 5: The Fracturing Continues
+## Part 6: The Fracturing Continues
 
 Once the church chose precision over unity, the fracturing became inevitable. Each council created new divisions. Each division remains unhealed to this day.
 
@@ -559,9 +711,9 @@ Today:
 
 ---
 
-## Part 6: The Pattern Emerges
+## Part 7: The Pattern Emerges — Two Threads Intertwined
 
-Now we can see the full pattern. Trace the line from Jerusalem Council to present fracture:
+Now we can see the full pattern. Trace the line from Jerusalem Council to present fracture, watching how **Greek philosophy** and **anti-Semitism** work together:
 
 ### The Timeline of Division
 
@@ -625,6 +777,47 @@ But when the Jewish teachers were lost, the church defaulted to Option 2. And th
 - Jerusalem Council: "How can we eat together?" (table fellowship)
 - Later Councils: "What is Christ's metaphysical composition?" (abstract definition)
 
+### The Two Threads: Greek Philosophy + Anti-Semitism
+
+Throughout this week's study, we've seen two forces working together to reshape Christianity:
+
+**Thread 1: Greek Philosophy**
+- Substance and essence replace relational categories
+- Metaphysical precision replaces scriptural narrative
+- Abstract definitions replace practical wisdom
+- Philosophy becomes the language of orthodoxy
+
+**Thread 2: Anti-Semitism**
+- Jewish teachers eliminated (AD 114-120)
+- *Adversus Judaeos* theology established (2nd-3rd centuries)
+- Jewish interpretation delegitimized
+- Constantine's explicit anti-Jewish policy
+- Councils conducted with directive to "have nothing in common with the Jews"
+
+**How They Work Together:**
+
+Anti-Semitism creates the vacuum that Greek philosophy fills:
+1. **Remove Jewish teachers** → No one to say "You're asking the wrong question"
+2. **Delegitimize Jewish interpretation** → Hebrew categories seem irrelevant
+3. **Blame Jews for deicide** → Jewish thought is contaminated, Greek thought is "pure"
+4. **Separate from Jewish practice** → Even beneficial Jewish wisdom (like Jerusalem Council) is forgotten
+5. **Greek philosophy becomes default** → Because the alternative (Jewish thought) is forbidden
+
+**The Result:**
+A Christianity built on:
+- Greek metaphysics instead of Hebrew narrative
+- Philosophical precision instead of relational wisdom
+- Uniformity instead of unity-in-diversity
+- Orthodoxy instead of orthopraxy
+- Formulas instead of fellowship
+
+**The Foundation Is Flawed:**
+Our systematic theology is built on Greek philosophy (substance, essence, being) articulated in the context of anti-Semitism (with explicit rejection of Jewish interpretation). This is why we ended up with:
+- Creeds that require philosophical education
+- Divisions over one Greek letter (iota)
+- Permanent schisms over vocabulary
+- Christianity that looks more like Plato than Moses
+
 ### The Common Thread
 
 Every division flows from the original schism. Without Jewish teachers:
@@ -650,7 +843,11 @@ The Jerusalem Council showed us how to preserve unity while addressing serious t
 
 5. Marcion wanted to reject the Hebrew Bible entirely. The church said no—but then functionally ignored the Old Testament and lost the Jerusalem Council's wisdom about how to handle disputes. Are we Marcionites in practice even if not in theory? How would recovering Hebrew wisdom change our theology?
 
-6. Next week we'll look at the long-term consequences: Crusades, Inquisition, Holocaust. How do you think the theological developments we've discussed this week—especially the shift from orthopraxy to orthodoxy, and from unity-in-diversity to uniformity-or-condemnation—connect to those atrocities?
+6. **The two threads: Greek philosophy + anti-Semitism.** The text argues these worked together: anti-Semitism removed Jewish teachers and delegitimized Jewish interpretation, creating a vacuum that Greek philosophy filled. Do you see evidence for this? How might Christianity be different if we had kept Jewish teachers and Hebrew categories?
+
+7. Our systematic theology is built on Greek metaphysics (substance, essence, being) articulated in an anti-Semitic context. This is described as a "flawed foundation." Is this too strong? Or do we need to fundamentally deconstruct and rebuild our theology on different foundations?
+
+8. Next week we'll look at the long-term consequences: Crusades, Inquisition, Holocaust. How do you think the theological developments we've discussed this week—especially Greek philosophy, anti-Semitism, and the shift from orthopraxy to orthodoxy—connect to those atrocities?
 
 ---
 
