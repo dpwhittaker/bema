@@ -279,8 +279,12 @@ Athanasius won the debate partly by **weaponizing anti-Semitism against Arius.**
 - But in an anti-Semitic context, being labeled "Judaizer" was enough to discredit him
 - Athanasius used Greek philosophy too, but his position wasn't tainted by association with Jews
 
-**Modern Catholic Sources:**
-Even today, some Catholic readings of church history treat Arius as suspiciously Jewish — as if he were a secret Jew who infiltrated the priesthood to corrupt Christian doctrine. The "Judaizer" smear worked so well it has lasted 1,700 years.
+**The "Secret Jew" Narrative Persists:**
+Even as late as 1962, the anti-Semitic smear was still alive. Maurice Pinay's *Plot Against the Church* (published on the eve of Vatican II) portrayed Arius as a secret Jew who infiltrated the priesthood to corrupt Christian doctrine from within.
+
+The Catholic Church never accepted Pinay's conspiracy theories, and three years later (1965) officially renounced supersessionism in *Nostra Aetate*. So this was not representative of Catholic teaching.
+
+But the fact that such a book could be published in 1962—and find an audience—shows how deeply embedded the narrative had become. The "Judaizer" smear that Athanasius deployed at Nicaea had worked so well it lasted **1,600 years**, poisoning Christian imagination about what heresy looks like: Jewish contamination of pure Christian truth.
 
 **What Actually Determined Orthodoxy:**
 
@@ -365,7 +369,7 @@ The difference between *homoousios* (same substance) and *homoiousios* (similar 
 
 3. The text argues that anti-Semitism **determined which Greek philosophy became orthodox.** Greek philosophy provided the categories, but anti-Jewish rhetoric determined the winner. Do you see evidence for this? How does this change your view of the councils?
 
-4. Even modern Catholic sources sometimes treat Arius as a "secret Jew who infiltrated the priesthood." The smear worked so well it lasted 1,700 years. Why do you think this narrative persists? What purpose does it serve?
+4. As late as 1962, Maurice Pinay's *Plot Against the Church* portrayed Arius as a "secret Jew who infiltrated the priesthood." Though the Catholic Church never accepted this and renounced supersessionism in 1965, the book found an audience. The smear worked for 1,600 years. Why do you think this narrative persisted so long? What does it reveal about how Christians imagined heresy?
 
 5. If Jewish teachers had been present, they might have said: "You're both wrong. Stop debating Greek metaphysics. Use scriptural categories like *echad* (complex unity) instead of *homoousios* (same substance)." How might Christian history be different if this voice had been heard?
 
