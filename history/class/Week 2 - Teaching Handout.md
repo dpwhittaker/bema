@@ -95,7 +95,7 @@
 - **60 million** separated for 1,500 years over **vocabulary**
   - 1990: Theologians conclude they "believe the same thing in different Greek words"
 
-## The Nicene Creed (Key Excerpt)
+### The Nicene Creed (Key Excerpt)
 
 > We believe in one God, the Father Almighty, maker of heaven and earth, of all things visible and invisible.
 >
@@ -103,7 +103,7 @@
 >
 > And we believe in the Holy Spirit, the Lord, the giver of life, who **proceeds from** the Father [**and the Son**], who with the Father and the Son is worshiped and glorified, who has spoken through the prophets...
 
-## The Chalcedonian Definition (Key Excerpt)
+### The Chalcedonian Definition (Key Excerpt)
 
 > ...one and the same Christ, Son, Lord, only-begotten, acknowledged in **two natures** **[*physesin*]** which undergo **no confusion, no change, no separation, no division**; at no point was the difference between the **natures** **[*physeōn*]** taken away through the union, but rather the property of both **natures** **[*physeōs*]** is preserved and comes together into a single **person** **[*prosōpon*]** and a single **subsistent being** **[*hypostasin*]**...
 
