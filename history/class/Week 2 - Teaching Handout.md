@@ -1,10 +1,4 @@
 # Week 2: Creeds, Councils, and Continuing Schisms
-## Teaching Handout
-
-### Opening Question
-If the church had already lost its Jewish teachers by the early second century, how could the great councils of the fourth and fifth centuries avoid integrating Gnostic presuppositions into their definitions of Christ?
-
----
 
 ## The Jerusalem Standard (AD 49)
 
@@ -21,8 +15,6 @@ If the church had already lost its Jewish teachers by the early second century, 
 - **Goal**: MINIMUM requirements for fellowship
 - **Test**: Practical (avoid idolatry, sexual immorality)
 - **Result**: Unity in diversity—Jews and Gentiles worship together
-
----
 
 ## The Three Threads
 
@@ -64,20 +56,6 @@ If the church had already lost its Jewish teachers by the early second century, 
 - Jerusalem: "It seemed good to the **Holy Spirit** and to us"
 - Nicaea: "It seemed good to the **Emperor** and to us who want to stay in his good graces"
 
----
-
-## How the Three Threads Work Together
-
-1. **Remove Jewish teachers** (AD 114-120) → No one to say "You're asking the wrong question"
-2. **Delegitimize Jewish interpretation** → Hebrew categories seem irrelevant
-3. **Blame Jews for deicide** → Jewish thought is contaminated
-4. **Emperor convenes councils** → Constantine calls Nicaea with anti-Jewish agenda
-5. **Greek philosophy becomes the battlefield** → Both sides use Greek categories
-6. **Anti-Semitism determines winner** → "Judaizer" label discredits opponents
-7. **Imperial power enforces decision** → Exile, elimination of dissent
-
----
-
 ## The Councils
 
 ### Nicaea (AD 325): Arius vs. Athanasius
@@ -115,8 +93,6 @@ If the church had already lost its Jewish teachers by the early second century, 
 - **60 million** separated for 1,500 years over **vocabulary**
   - 1990: Theologians conclude they "believe the same thing in different Greek words"
 
----
-
 ## The Nicene Creed (Full Text)
 
 > We believe in one God, the Father Almighty, maker of heaven and earth, of all things visible and invisible.
@@ -135,8 +111,6 @@ If the church had already lost its Jewish teachers by the early second century, 
 | **"proceeds from"** | ἐκπορεύεται | **Neoplatonic** emanation vocabulary (Plotinus). Scripture says "sent" or "poured out." |
 | ***hypostasis*** | ὑπόστασις | Platonic/Stoic: "subsistence, person, underlying reality" |
 
----
-
 ## The Chalcedonian Definition (Key Excerpt)
 
 > ...one and the same Christ, Son, Lord, only-begotten, acknowledged in **two natures** **[*physesin*]** which undergo **no confusion, no change, no separation, no division**; at no point was the difference between the **natures** **[*physeōn*]** taken away through the union, but rather the property of both **natures** **[*physeōs*]** is preserved and comes together into a single **person** **[*prosōpon*]** and a single **subsistent being** **[*hypostasin*]**...
@@ -153,8 +127,6 @@ If the church had already lost its Jewish teachers by the early second century, 
 - "God was in Christ reconciling the world to himself" (2 Cor 5:19)
 - "He is the image of the invisible God" (Col 1:15)
 
----
-
 ## The Pattern: Division After Division
 
 | Date | Event | Result |
@@ -167,8 +139,6 @@ If the church had already lost its Jewish teachers by the early second century, 
 
 **The Jerusalem Council preserved unity. Every subsequent council created division.**
 
----
-
 ## Abandoning the Jerusalem Standard
 
 | Jerusalem Council | Later Councils |
@@ -179,8 +149,6 @@ If the church had already lost its Jewish teachers by the early second century, 
 | Spirit-led consensus | Imperial enforcement (exile) |
 | "How can we worship together?" | "What is the precise metaphysical definition?" |
 | Church stayed together | Church fractured permanently |
-
----
 
 ## The Foundation Is Flawed
 
