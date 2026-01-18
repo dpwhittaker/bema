@@ -103,6 +103,10 @@
 >
 > And we believe in the Holy Spirit, the Lord, the giver of life, who **proceeds from** the Father [**and the Son**], who with the Father and the Son is worshiped and glorified, who has spoken through the prophets. We believe in one holy catholic and apostolic Church. We acknowledge one baptism for the forgiveness of sins. We look for the resurrection of the dead, and the life of the world to come. Amen.
 
+## The Chalcedonian Definition (Key Excerpt)
+
+> ...one and the same Christ, Son, Lord, only-begotten, acknowledged in **two natures** **[*physesin*]** which undergo **no confusion, no change, no separation, no division**; at no point was the difference between the **natures** **[*physeōn*]** taken away through the union, but rather the property of both **natures** **[*physeōs*]** is preserved and comes together into a single **person** **[*prosōpon*]** and a single **subsistent being** **[*hypostasin*]**...
+
 ### Greek Philosophical Terms NOT Found in Scripture:
 
 | Term | Greek | Origin |
@@ -112,15 +116,6 @@
 | **"Light from Light"** | φῶς ἐκ φωτός | **Neoplatonic** emanation imagery (Plotinus) |
 | **"proceeds from"** | ἐκπορεύεται | **Neoplatonic** emanation vocabulary (Plotinus). Scripture says "sent" or "poured out." |
 | ***hypostasis*** | ὑπόστασις | Platonic/Stoic: "subsistence, person, underlying reality" |
-
-## The Chalcedonian Definition (Key Excerpt)
-
-> ...one and the same Christ, Son, Lord, only-begotten, acknowledged in **two natures** **[*physesin*]** which undergo **no confusion, no change, no separation, no division**; at no point was the difference between the **natures** **[*physeōn*]** taken away through the union, but rather the property of both **natures** **[*physeōs*]** is preserved and comes together into a single **person** **[*prosōpon*]** and a single **subsistent being** **[*hypostasin*]**...
-
-### Greek Philosophical Terms:
-
-| Term | Greek | Origin |
-|------|-------|--------|
 | ***physis*** (nature) | φύσις | Aristotle: "what makes something the kind of thing it is." Used 14 times. Bible never discusses Jesus's "natures." |
 | **The Four Negatives** | ἀσυγχύτως, ἀτρέπτως, ἀδιαιρέτως, ἀχωρίστως | **Apophatic theology** (negative definition)—a Greek philosophical method. Hebrew thought defines by story and action, not by negation. |
 
