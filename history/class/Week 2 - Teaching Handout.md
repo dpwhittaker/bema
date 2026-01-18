@@ -16,6 +16,7 @@
 - **Test**: Practical (avoid idolatry, sexual immorality)
 - **Result**: Unity in diversity—Jews and Gentiles worship together
 
+
 ## The Three Threads
 
 ### Thread 1: Greek Philosophy
