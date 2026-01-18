@@ -109,15 +109,15 @@
 
 ### Greek Philosophical Terms NOT Found in Scripture:
 
-| Term | Greek | Origin |
-|------|-------|--------|
-| ***homoousios*** | ὁμοούσιος | Aristotelian metaphysics: "of the same substance/essence." Previously used by **Gnostics**. |
-| ***ousia*** | οὐσία | Aristotle's *Metaphysics*: "substance, essence, being." Bible never asks "what is God made of?" |
-| **"Light from Light"** | φῶς ἐκ φωτός | **Neoplatonic** emanation imagery (Plotinus) |
-| **"proceeds from"** | ἐκπορεύεται | **Neoplatonic** emanation vocabulary (Plotinus). Scripture says "sent" or "poured out." |
-| ***hypostasis*** | ὑπόστασις | Platonic/Stoic: "subsistence, person, underlying reality" |
-| ***physis*** (nature) | φύσις | Aristotle: "what makes something the kind of thing it is." Used 14 times. Bible never discusses Jesus's "natures." |
-| **The Four Negatives** | ἀσυγχύτως, ἀτρέπτως, ἀδιαιρέτως, ἀχωρίστως | **Apophatic theology** (negative definition)—a Greek philosophical method. Hebrew thought defines by story and action, not by negation. |
+| Term | Origin |
+|------|--------|
+| ***homoousios*** | Aristotelian metaphysics: "of the same substance/essence." Previously used by **Gnostics**. |
+| ***ousia*** | Aristotle's *Metaphysics*: "substance, essence, being." Bible never asks "what is God made of?" |
+| **"Light from Light"** | **Neoplatonic** emanation imagery (Plotinus) |
+| **"proceeds from"** | **Neoplatonic** emanation vocabulary (Plotinus). Scripture says "sent" or "poured out." |
+| ***hypostasis*** | Platonic/Stoic: "subsistence, person, underlying reality" |
+| ***physis*** (nature) | Aristotle: "what makes something the kind of thing it is." Used 14 times. Bible never discusses Jesus's "natures." |
+| **The Four Negatives** | **Apophatic theology** (negative definition)—a Greek philosophical method. Hebrew thought defines by story and action, not by negation. |
 
 **What Scripture Says:**
 - "The Word became flesh and dwelt among us" (John 1:14)
