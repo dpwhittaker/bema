@@ -316,7 +316,7 @@ The Council of Nicaea sided with Athanasius and produced the Nicene Creed. Here 
 >
 > And in one Lord Jesus Christ, the only **[*monogenēs*]** Son of God, **begotten** **[*gennēthenta*]** of the Father before all ages, Light from Light, true God from true God, **begotten** not made, **of one Being [*homoousios*]** with the Father; through him all things were made. For us and for our salvation he came down from heaven, and by the Holy Spirit was incarnate of the Virgin Mary, and became man. For our sake he was crucified under Pontius Pilate; he suffered death and was buried. On the third day he rose again in accordance with the Scriptures; he ascended into heaven and is seated at the right hand of the Father. He will come again in glory to judge the living and the dead, and his kingdom will have no end.
 >
-> And we believe in the Holy Spirit, the Lord, the giver of life, who proceeds from the Father [and the Son], who with the Father and the Son is worshiped and glorified, who has spoken through the prophets. We believe in one holy catholic and apostolic Church. We acknowledge one baptism for the forgiveness of sins. We look for the resurrection of the dead, and the life of the world to come. Amen.
+> And we believe in the Holy Spirit, the Lord, the giver of life, who **proceeds from** the Father [and the Son], who with the Father and the Son is worshiped and glorified, who has spoken through the prophets. We believe in one holy catholic and apostolic Church. We acknowledge one baptism for the forgiveness of sins. We look for the resurrection of the dead, and the life of the world to come. Amen.
 
 **Greek Philosophical Terms Not Found in Scripture:**
 
@@ -328,6 +328,7 @@ The Council of Nicaea sided with Athanasius and produced the Nicene Creed. Here 
 | "begotten not made" | γεννηθέντα οὐ ποιηθέντα | eternal generation | Addresses the metaphysical question of *how* the Son relates to the Father—a question foreign to Hebrew thought, which would simply say "The LORD and his Anointed" (Psalm 2). |
 | "Light from Light" | φῶς ἐκ φωτός | emanation metaphor | Neoplatonic imagery of divine emanation, where lower realities "flow" from higher ones. |
 | "true God from true God" | θεὸν ἀληθινὸν ἐκ θεοῦ ἀληθινοῦ | essence identity | Essence language—defining Jesus by *what he is made of* rather than *who he is in relation to Israel*. |
+| "proceeds from" | ἐκπορεύεται (*ekporeuetai*) | emanation/procession | More Neoplatonic emanation vocabulary. The Spirit "proceeds from" (*ekporeusis*) the Father like light emanates from the sun—borrowed directly from Plotinus's philosophy of how lower realities flow from higher ones. Scripture never uses this metaphysical language; it simply says the Spirit is "sent" or "poured out." |
 
 **What the Bible Actually Says:**
 Compare the creed's philosophical precision to how Scripture speaks of Jesus:
