@@ -405,16 +405,60 @@ The difference between *homoousios* (same substance) and *homoiousios* (similar 
 
 8. Over one Greek letter (iota), Christians excommunicated each other and Arian Christianity was eliminated. But the real issues were: which side could avoid being labeled Jewish, and which position pleased the Emperor. Does this reveal that the councils were more about politics and prejudice than truth?
 
-### Council of Constantinople (AD 381) - The Holy Spirit
+### Council of Constantinople (AD 381) — Imperial Power Continues
+
+**Theodosius Convenes the Council:**
+
+Like Nicaea, this council was **called by an emperor**—Theodosius I. And like Constantine, Theodosius had a political agenda.
+
+**Why Theodosius Called the Council:**
+- **Arianism was still the majority position in Constantinople** despite Nicaea's condemnation
+- Theodosius needed to consolidate his power by enforcing "orthodox" Christianity
+- He wanted to expand the Nicene Creed to explicitly address the Holy Spirit's divinity
+- Political unity required theological uniformity
+
+**Who Was Excluded:**
+- **Western bishops were not invited** or chose not to attend
+- This was an Eastern council (approximately 150 bishops, all from the East)
+- The Pope did not attend
+- Decisions were made without Western input
 
 **The Question:** Is the Holy Spirit fully God, or a created force?
 
 **The Decision:**
 The council expanded the Nicene Creed to affirm the full divinity of the Holy Spirit:
-> "We believe in the Holy Spirit, the Lord, the giver of life, who proceeds from the Father [and the Son], who with the Father and the Son is worshiped and glorified..."
+> "We believe in the Holy Spirit, the Lord, the giver of life, who **proceeds from** the Father, who with the Father and the Son is worshiped and glorified..."
 
-**The Problem:**
-The phrase "and the Son" (*filioque* in Latin) was added by Western churches later. The East never accepted this addition. This single word would eventually contribute to the Great Schism of 1054.
+Notice: The original said the Spirit "proceeds from **the Father**" (singular).
+
+**The Problem—The Creed Is Still Dividing:**
+
+Centuries later, **Western churches unilaterally added** "and the Son" (*filioque* in Latin) to the creed without consulting the East:
+> "...who proceeds from the Father **and the Son**..."
+
+**Why This Mattered:**
+- The East never accepted this addition
+- They viewed it as:
+  - Tampering with an ecumenical creed without ecumenical consent
+  - Theologically problematic (changes the relationship within the Trinity)
+  - Western arrogance (making unilateral decisions for the whole church)
+- This single phrase—**added without consensus**—became one of the major issues in the **Great Schism of 1054**
+
+**The Pattern Repeats:**
+1. **Emperor convenes council** (Theodosius, like Constantine before him)
+2. **Regional exclusion** (Western bishops not present)
+3. **Creed expanded** (more Greek philosophical precision: "proceeds from")
+4. **Later unilateral changes** (West adds *filioque* without Eastern consent)
+5. **Permanent division** (Catholic-Orthodox split still unhealed)
+
+**The Irony:**
+A creed designed to create unity instead created division. And when one part of the church tried to modify it unilaterally, it created an even deeper division that lasts to this day.
+
+**The Creed Is Still Dividing:**
+- Eastern Orthodox: ~220 million (reject *filioque*)
+- Roman Catholic: ~1.3 billion (include *filioque*)
+- Not in communion with each other
+- Over one word added to a creed without consensus
 
 ### Council of Ephesus (AD 431) - Mary as Theotokos
 
