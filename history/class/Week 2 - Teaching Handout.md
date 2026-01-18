@@ -95,13 +95,13 @@
 - **60 million** separated for 1,500 years over **vocabulary**
   - 1990: Theologians conclude they "believe the same thing in different Greek words"
 
-## The Nicene Creed (Full Text)
+## The Nicene Creed (Key Excerpt)
 
 > We believe in one God, the Father Almighty, maker of heaven and earth, of all things visible and invisible.
 >
-> And in one Lord Jesus Christ, the only **[*monogenēs*]** Son of God, **begotten** **[*gennēthenta*]** of the Father before all ages, **Light from Light**, true God from true God, **begotten not made**, **of one Being [*homoousios*]** with the Father; through him all things were made. For us and for our salvation he came down from heaven, and by the Holy Spirit was incarnate of the Virgin Mary, and became man. For our sake he was crucified under Pontius Pilate; he suffered death and was buried. On the third day he rose again in accordance with the Scriptures; he ascended into heaven and is seated at the right hand of the Father. He will come again in glory to judge the living and the dead, and his kingdom will have no end.
+> And in one Lord Jesus Christ, the only **[*monogenēs*]** Son of God, **begotten** **[*gennēthenta*]** of the Father before all ages, **Light from Light**, true God from true God, **begotten not made**, **of one Being [*homoousios*]** with the Father; through him all things were made...
 >
-> And we believe in the Holy Spirit, the Lord, the giver of life, who **proceeds from** the Father [**and the Son**], who with the Father and the Son is worshiped and glorified, who has spoken through the prophets. We believe in one holy catholic and apostolic Church. We acknowledge one baptism for the forgiveness of sins. We look for the resurrection of the dead, and the life of the world to come. Amen.
+> And we believe in the Holy Spirit, the Lord, the giver of life, who **proceeds from** the Father [**and the Son**], who with the Father and the Son is worshiped and glorified, who has spoken through the prophets...
 
 ## The Chalcedonian Definition (Key Excerpt)
 
