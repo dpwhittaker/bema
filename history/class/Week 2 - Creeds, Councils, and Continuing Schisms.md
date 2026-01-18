@@ -460,7 +460,26 @@ A creed designed to create unity instead created division. And when one part of 
 - Not in communion with each other
 - Over one word added to a creed without consensus
 
-### Council of Ephesus (AD 431) - Mary as Theotokos
+### Council of Ephesus (AD 431) — Imperial Power Continues
+
+**Theodosius II Convenes the Council:**
+
+Like his grandfather Theodosius I (who called Constantinople) and Constantine before him, **Emperor Theodosius II** convened the Council of Ephesus. The pattern of imperial power continues.
+
+**Why Theodosius II Called the Council:**
+- The Nestorian controversy was creating conflict in the Eastern church
+- Nestorius (Patriarch of Constantinople) was challenging the popular title *Theotokos* (God-bearer) for Mary
+- Cyril of Alexandria opposed Nestorius vehemently
+- The emperor needed to settle the dispute to maintain unity
+
+**The Political Dynamics:**
+- Theodosius initially supported Nestorius (who was his appointee as Patriarch)
+- But political winds shifted as Cyril built support
+- The council became a power struggle between Alexandria and Constantinople
+- Cyril arrived early, started the council before Nestorius's supporters arrived, and condemned Nestorius
+- When the pro-Nestorian bishops arrived, they held a counter-council condemning Cyril
+- Theodosius initially arrested both Cyril and Nestorius, then sided with Cyril
+- **Nestorius was exiled by imperial decree**
 
 **The Question:** Can Mary be called "Mother of God" (*Theotokos*) or only "Mother of Christ" (*Christotokos*)?
 
@@ -470,6 +489,12 @@ A creed designed to create unity instead created division. And when one part of 
 
 **The Decision:**
 The council sided with Cyril. Mary is *Theotokos* (God-bearer) because Jesus is one person—fully God and fully human, not two persons sharing a body.
+
+**The Pattern Continues:**
+1. **Emperor convenes council** (Theodosius II, continuing the dynasty)
+2. **Political maneuvering** (Cyril starts early, condemns opponents before they arrive)
+3. **Imperial enforcement** (Nestorius exiled by emperor's decree)
+4. **Permanent division** (Church of the East separates, remains separated 1,600 years)
 
 **The Power of the Creed to Divide:**
 Nestorius was condemned as a heretic and exiled. But his followers did not disappear:
@@ -497,7 +522,23 @@ A first-century Jew would have had no problem with this. "The Word became flesh 
 
 2. The text says the Incarnation is "scandalous precisely because God embraces the material world he created 'very good.'" How does this challenge Gnostic thinking? How does it challenge modern evangelical spirituality that often treats the physical world as less important than the spiritual?
 
-### Council of Chalcedon (AD 451) - Two Natures United
+### Council of Chalcedon (AD 451) — Imperial Power Continues
+
+**Emperor Marcian Convenes the Council:**
+
+The pattern continues: **Emperor Marcian** (with Empress Pulcheria) convened the Council of Chalcedon in AD 451. Every major council has been called by imperial power.
+
+**Why Marcian Called the Council:**
+- The Nestorian controversy still raged despite Ephesus (AD 431)
+- Eutyches (an opponent of Nestorianism) went too far in the opposite direction, teaching that Christ's human and divine natures merged into one
+- The empire needed a definitive statement to end the conflicts
+- Political unity required theological settlement
+
+**Imperial Involvement:**
+- Marcian and Pulcheria personally attended sessions
+- Over 500 bishops attended (the largest council yet)
+- Decisions were enforced by imperial decree
+- Those who refused to sign faced exile
 
 **The Question:** How can Jesus be fully God and fully human?
 
