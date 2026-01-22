@@ -2,8 +2,18 @@
 
 ## Church History as Preface to Deconstructing Systematic Theology
 
+### The Three Threads
+
+This week we trace three intertwined forces that reshaped Christianity from its Jewish roots into Imperial Christendom:
+
+1. **Greek Philosophy** — Substance and essence replaced relational categories; metaphysical precision replaced scriptural narrative
+2. **Anti-Semitism** (*Adversus Judaeos*) — Jewish teachers eliminated, Jewish interpretation delegitimized, the "Judaizer" label weaponized
+3. **Imperial Power** — Emperors convened councils, presided over debates, and exiled dissenters; "orthodoxy" was enforced by political power, not spiritual discernment
+
+Watch how these three forces work together throughout this study. The pattern: anti-Semitism creates the vacuum, Greek philosophy fills it, and imperial power enforces the result.
+
 ### Opening Question
-If the church had already lost its Jewish teachers by the early second century, how could the great councils of the fourth and fifth centuries avoid integrating Gnostic presuppositions into their definitions of Christ? What happens when you fight heresy using the same philosophical categories that produced the heresy in the first place?
+If the church had already lost its Jewish teachers by the early second century, how could the great councils of the fourth and fifth centuries avoid integrating Gnostic presuppositions into their definitions of Christ? What happens when you fight heresy using the same philosophical categories that produced the heresy in the first place? And what happens when the empire leads the church instead of the Spirit?
 
 ---
 

@@ -60,6 +60,7 @@ The book traces how the early church lost its Jewish roots, its connection to th
 Small group study guides synthesizing key themes:
 - [Week 1 - The Betrayal and Its Consequences](history/class/Week%201%20-%20The%20Betrayal%20and%20Its%20Consequences.md)
 - [Week 2 - Creeds, Councils, and Continuing Schisms](history/class/Week%202%20-%20Creeds,%20Councils,%20and%20Continuing%20Schisms.md)
+- [Week 2 - Teaching Handout](history/class/Week%202%20-%20Teaching%20Handout.md)
 - [Week 3 - Long-Term Consequences and the Glimmer of Hope](history/class/Week%203%20-%20Long-Term%20Consequences%20and%20the%20Glimmer%20of%20Hope.md)
 
 ---
