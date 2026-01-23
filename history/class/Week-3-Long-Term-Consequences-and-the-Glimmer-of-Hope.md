@@ -194,7 +194,328 @@ When you expel the people you've oppressed, you don't just lose their contributi
 
 ---
 
-## Part 5: The Holocaust (1933-1945)
+## Part 5: The Protestant Reformation (1517-1648) — The Pattern Repeats
+
+### The Promise of Reform
+In 1517, Martin Luther nailed his 95 Theses to the church door in Wittenberg, launching what would become the Protestant Reformation. The promise was compelling:
+- Return to Scripture (*sola scriptura*)
+- Salvation by faith alone (*sola fide*)
+- Priesthood of all believers
+- Freedom from corrupt papal authority
+- Access to the Bible in the people's language
+
+Finally, it seemed, the church would break free from centuries of corruption and return to biblical faith.
+
+**The Question:** Did the Reformation actually return to biblical theology? Or did it perpetuate the same patterns established at Nicaea—just with different philosophical assumptions, new imperial backing, and exponentially more fragmentation?
+
+### The Three Threads Persist
+
+Look closely, and you'll see the same three threads that shaped the councils:
+
+**Thread 1: Philosophy Shifts (But Doesn't Disappear)**
+- The Reformation didn't abandon Greek philosophy—it exchanged one philosophical system for another
+- **Late Medieval Nominalism** (via William of Ockham) replaced Aristotelian/Thomistic synthesis
+- **The Shift:** From "What is God's essence?" to "What is God's will?"
+  - Medieval scholasticism (following Aquinas): We can know God's nature through reason and revelation
+  - Nominalism: We cannot know God's essence; we can only know His will as revealed in Scripture and action
+  - This sounds more biblical—but it's still a philosophical lens, not a return to Hebrew categories
+
+**Thread 2: Anti-Semitism Intensifies**
+- The Reformers perpetuated and amplified Christian anti-Semitism
+- Martin Luther's trajectory is particularly horrifying:
+  - Early career: Hoped Jews would convert once the gospel was preached purely
+  - When they didn't convert: Turned viciously anti-Semitic
+  - 1543: Published *On the Jews and Their Lies* (quoted in Week 3, Part 5)
+  - Recommended burning synagogues, destroying Jewish homes, confiscating prayer books, forbidding rabbis to teach
+  - The Nazis quoted Luther extensively
+
+**Thread 3: Empire (New Form, Same Function)**
+- The Reformation coincided with the Age of Exploration and colonial expansion
+- **Spanish Empire:** Remained Catholic; used Inquisition to enforce orthodoxy in colonies
+- **Portuguese Empire:** Catholic; colonial expansion tied to forced conversion
+- **British Empire:** Protestant (Anglican); colonialism became the vehicle for spreading "civilization" and Christianity
+- **Dutch Empire:** Reformed (Calvinist); commercial colonialism with religious justification
+- The pattern: Empire still shapes theology, only now multiple empires back competing theological systems
+
+### The Reformers and Their Ideas
+
+Let's examine the major Reformation figures and their theological contributions, asking: Did they return to biblical categories, or introduce new philosophical systems?
+
+#### Martin Luther (1483-1546)
+
+**Key Ideas:**
+- *Sola scriptura* (Scripture alone) — only the Bible is authoritative, not church tradition
+- *Sola fide* (faith alone) — justification by faith, not works
+- *Sola gratia* (grace alone) — salvation is by grace, not human merit
+- Priesthood of all believers — direct access to God without priestly mediation
+- Translated Bible into German — gave people access to Scripture
+
+**Philosophical Influences:**
+- Deeply influenced by **Nominalism** (especially Gabriel Biel's interpretation of Ockham)
+- Focus shifted from God's essence to God's will and power
+- Emphasized God's sovereignty and human inability (total depravity)
+- Predestination: God's will determines who is saved (though Luther was less systematic than Calvin on this)
+
+**The Anti-Semitism Problem:**
+Luther's *On the Jews and Their Lies* (1543):
+> "First, their synagogues should be set on fire... Secondly, their homes should likewise be broken down and destroyed... Thirdly, they should be deprived of their prayer books and Talmuds... Fourthly, their rabbis must be forbidden under threat of death to teach anymore..."
+
+**Assessment:**
+- **Returned to biblical theology?** Partially. *Sola scriptura* and justification by faith are biblically grounded. Access to Scripture in vernacular languages was transformative.
+- **Perpetuated Greek philosophy?** Yes. Still debating predestination, free will, and God's sovereignty using philosophical categories.
+- **Introduced new philosophy?** Yes. Nominalism's focus on God's will rather than essence. This sounds more biblical (God known through action, not abstract essence), but it's still a philosophical system imposed on Scripture.
+- **Anti-Semitism:** Not only perpetuated but amplified. Luther's recommendations were implemented by the Nazis 400 years later.
+
+#### John Calvin (1509-1564)
+
+**Key Ideas:**
+- **TULIP** (Five Points of Calvinism):
+  - Total depravity — humanity completely corrupted by sin
+  - Unconditional election — God chooses who will be saved
+  - Limited atonement — Christ died only for the elect
+  - Irresistible grace — the elect cannot resist God's call
+  - Perseverance of the saints — the elect cannot lose salvation
+- God's absolute sovereignty over all things
+- Covenant theology — God relates to humanity through covenants
+- Wrote *Institutes of the Christian Religion* (1536) — systematic theology
+
+**Philosophical Influences:**
+- Like Luther, influenced by **Nominalism** and focus on God's will
+- But more systematic and philosophical than Luther
+- Used **Augustinian** categories (predestination, grace, depravity)
+- Created a comprehensive theological system rivaling medieval scholasticism
+
+**The Tragic Irony:**
+Calvin argued against Catholic use of force to enforce doctrine, but then:
+- Established a theocracy in Geneva with strict moral enforcement
+- Supported execution of heretics (including Michael Servetus, burned at stake in 1553 for denying the Trinity)
+- The pattern persists: "We're right; they're wrong; force is justified"
+
+**Assessment:**
+- **Returned to biblical theology?** Mixed. Covenant theology recovers some biblical categories. But TULIP debates use philosophical logic more than biblical narrative.
+- **Perpetuated Greek philosophy?** Yes. Predestination and election debated using Aristotelian logic and Augustinian metaphysics.
+- **Introduced new philosophy?** Not really new—systematized existing Augustinian/Nominalist thought.
+- **Anti-Semitism:** Less overtly virulent than Luther, but still supersessionist. Covenant theology was often used to argue the church replaced Israel.
+
+#### The Radical Reformation (Anabaptists)
+
+**Key Ideas:**
+- Believer's baptism (not infant baptism)
+- Separation of church and state
+- Pacifism and refusal to swear oaths
+- Simple living and community of goods
+- Church discipline and mutual accountability
+
+**Key Figures:**
+- **Conrad Grebel** (1498-1526): Co-founder of Swiss Brethren
+- **Menno Simons** (1496-1561): Mennonite movement founder
+- **Jakob Hutter** (d. 1536): Hutterite communities
+
+**The Cost:**
+Anabaptists were persecuted by both Catholics AND Protestants:
+- Drowned (ironic "rebaptism") by Protestant authorities
+- Burned by Catholic authorities
+- Hunted and killed across Europe
+- Thousands martyred in the Martyrs Mirror
+
+**Assessment:**
+- **Returned to biblical theology?** Arguably closest to Jesus's teachings among Reformation movements. Emphasis on discipleship, simplicity, non-violence, and community reflects Sermon on the Mount.
+- **Perpetuated Greek philosophy?** Least philosophical of all Reformation movements. Focused on practical obedience.
+- **Introduced new philosophy?** No—focused on following Jesus's teachings literally.
+- **Anti-Semitism:** Less explicitly anti-Semitic, but still supersessionist in covenant theology.
+
+**The Irony:**
+The group that most closely followed Jesus's teachings (enemy love, non-violence, simplicity) was killed by both Catholic and Protestant Christians. The Jerusalem Standard—"no further burden"—was violated by those who claimed to be reforming the church.
+
+#### The Anglican Reformation (English Reformation)
+
+**Key Figures:**
+- **Henry VIII** (1491-1547): Broke from Rome over annulment issue
+- **Thomas Cranmer** (1489-1556): Archbishop of Canterbury, created *Book of Common Prayer*
+- **Elizabeth I** (1533-1603): Established the Elizabethan Settlement
+
+**The *Via Media* (Middle Way):**
+- Claimed to be "Catholic and Reformed"
+- Retained episcopal structure (bishops)
+- Reformed doctrine (closer to Protestantism)
+- Liturgical worship (Catholic style)
+
+**The Imperial Connection:**
+The English Reformation was inseparable from empire:
+- Henry VIII broke from Rome to secure succession (and marry Anne Boleyn)
+- **Thread 3 in full view:** Political power determined theology
+- Later, Anglicanism became the established religion of the British Empire
+- Colonial expansion spread Anglicanism worldwide—often by force
+
+**Assessment:**
+- **Returned to biblical theology?** Moderate reforms. Emphasized Scripture and vernacular liturgy. But retained much Catholic structure.
+- **Perpetuated Greek philosophy?** Yes. The 39 Articles use the same creedal formulas (Nicene, Chalcedonian).
+- **Introduced new philosophy?** No. Attempted synthesis of Catholic and Reformed thought.
+- **Anti-Semitism:** Standard supersessionism. No improvement over medieval theology.
+
+### The Shift: From God's Nature to God's Will
+
+The Reformation represents a significant philosophical shift, though it's often unrecognized:
+
+**Medieval Scholasticism (Following Aquinas):**
+- Primary question: "What is God?"
+- Method: Reason + revelation can know God's essence
+- God is *actus purus* (pure actuality), *ipsum esse subsistens* (subsistent being itself)
+- Aristotelian metaphysics: God as First Cause, Unmoved Mover
+
+**Reformation Nominalism:**
+- Primary question: "What does God will?"
+- Method: We cannot know God's essence; only His revealed will
+- God is known through His actions in history and His Word
+- Focus on covenant, election, sovereignty
+
+**Why This Matters:**
+The shift from "What is God's nature?" to "What is God's will?" *sounds* more biblical. The Hebrew Scriptures reveal God through His actions: "I am the LORD your God who brought you out of Egypt" (Exodus 20:2).
+
+**But Here's the Problem:**
+The Reformers still debated God's will using philosophical categories:
+- Predestination debates used Aristotelian logic
+- Free will vs. sovereignty used scholastic distinctions
+- Covenant theology imposed systematic frameworks on Scripture
+
+**What a True Return to Hebrew Categories Would Look Like:**
+Instead of debating "Does God predetermine who is saved?" (philosophical question), ask:
+- "How do we follow Jesus in community?" (practical question)
+- "What does it mean to love God and neighbor?" (relational question)
+- "How do we participate in God's redemption of creation?" (missional question)
+
+The Anabaptists came closest to this approach. And they were killed for it.
+
+### The Fragmentation Accelerates
+
+Here's where decentralization reveals its dark side.
+
+**The Catholic Pattern:**
+- One church, centralized authority
+- When schisms occurred, they were major breaks (East-West, Protestant-Catholic)
+- Power concentrated; dissent forcefully suppressed
+
+**The Protestant Pattern:**
+- Decentralized authority: *sola scriptura* + priesthood of believers
+- Every believer can interpret Scripture
+- Result: Exponential fragmentation
+
+**The Timeline of Splitting:**
+
+| Date | Split | Over What? |
+|------|-------|-----------|
+| **1517** | Luther breaks from Rome | Indulgences, justification, papal authority |
+| **1521** | Anabaptist movement begins | Believer's baptism, separation of church and state |
+| **1534** | Anglican breaks from Rome | Henry VIII's annulment |
+| **1536** | Calvin establishes Geneva | Predestination, church governance |
+| **1560s** | Reformed vs. Lutheran disputes | Presence of Christ in communion |
+| **1600s** | Presbyterians, Congregationalists, Baptists split | Church governance structures |
+| **1700s** | Methodist movement (Wesley) | Revival, holiness, free will vs. predestination |
+| **1800s** | Hundreds of denominations emerge | Baptism methods, end times, spiritual gifts, slavery |
+| **1900s** | Pentecostal movement, Fundamentalist-Modernist split | Speaking in tongues, biblical inerrancy |
+| **2000s** | Thousands of denominations worldwide | Everything imaginable |
+
+**The Sad Math:**
+- Catholic and Orthodox: 2 main communions (plus Oriental Orthodox = 3)
+- Protestant denominations today: **45,000+** (World Christian Encyclopedia)
+
+**What Happened?**
+Once you establish that unity requires perfect doctrinal agreement, and you give every believer authority to interpret Scripture, fragmentation is inevitable. Every theological dispute becomes grounds for split.
+
+The Jerusalem Council said "no further burden." The Reformation said "these doctrines are essential." Then each group defined "essential" differently.
+
+### The Colonialism Connection (Thread 3: The New Empire)
+
+The Reformation coincided with European colonial expansion. Watch how Thread 3 (empire) operates:
+
+**Spanish and Portuguese Empires (Catholic):**
+- 1492: Columbus sails; Spanish Inquisition expels Jews
+- Colonial conquest justified as spreading Christianity
+- Forced conversion of indigenous peoples (encomienda system)
+- 1537: Pope Paul III declares indigenous people have souls (but colonization continues)
+
+**British Empire (Protestant/Anglican):**
+- Colonial expansion justified as spreading "civilization" and the gospel
+- Transatlantic slave trade justified biblically (Ham's curse, Philemon reinterpreted)
+- Indigenous peoples "civilized" through Christian education
+- Residential schools (continuing into 20th century) forcibly removed children from families
+
+**Dutch Empire (Reformed/Calvinist):**
+- Dutch East India Company spread Calvinism alongside trade
+- South African apartheid later justified using Reformed theology
+- Segregation defended as God's created order
+
+**The Pattern:**
+Empire still shapes theology. The difference: now multiple empires back competing Christian traditions. And all perpetuate:
+- Supersessionism (Christians replace Jews)
+- Colonialism (Europeans "save" non-Europeans)
+- Slavery (Africans are cursed, or slavery is biblically permissible)
+- Forced conversion (heretics, Jews, indigenous peoples)
+
+**The Theological Gymnastics:**
+How did Christians justify slavery, colonialism, and genocide while following Jesus?
+- Depersonalized non-Europeans (not fully human, or "less developed")
+- Spiritualized salvation (save souls, ignore bodies and justice)
+- Dualism (spiritual matters vs. earthly matters—hello, Gnosticism!)
+- Predestination (colonizers are elect; colonized are not)
+
+### Did the Reformation Return to Biblical Theology?
+
+**What Was Recovered:**
+- Scripture in the people's language ✓
+- Direct access to God without priestly mediation ✓
+- Justification by faith (not purchased through indulgences) ✓
+- Emphasis on God's grace ✓
+
+**What Was NOT Recovered:**
+- ✗ Still debating theology using Greek philosophical categories
+- ✗ Still supersessionist (church replaces Israel)
+- ✗ Still using force to enforce orthodoxy
+- ✗ Still prioritizing orthodoxy over orthopraxy
+- ✗ Anti-Semitism intensified (Luther)
+- ✗ Created exponentially more divisions
+- ✗ Partnered with empire (colonialism)
+
+**What Was Made Worse:**
+- Fragmentation: From 2-3 main communions to 45,000+ denominations
+- Justification for slavery and colonialism (new philosophical/theological frameworks)
+- Anti-Semitism: Luther's writings gave theological cover to genocide
+
+### The Jerusalem Standard—Still Ignored
+
+Imagine if the Reformers had followed the Jerusalem Council:
+
+**Instead of:**
+"We will create detailed systematic theologies. Those who disagree are heretics. We'll establish competing churches."
+
+**They could have said:**
+"We all confess Jesus as Lord. We disagree about predestination, baptism methods, church governance. It seems good to the Holy Spirit and to us to impose no further burden. Let's stay in communion while we work through these questions."
+
+**The Result:**
+- Protestant, Catholic, and Orthodox might have remained in dialogue
+- Diversity of worship and theology within one body
+- No need for 45,000 denominations
+- Fellowship based on Jesus, not perfect doctrinal agreement
+
+But that's not what happened. The Reformation repeated the pattern of Nicaea: philosophical precision, forced uniformity (within each tradition), and division enforced by power.
+
+### **DISCUSSION BREAK**
+
+1. Martin Luther recovered biblical truths (justification by faith, Scripture in vernacular) but wrote viciously anti-Semitic material that the Nazis quoted. Can we honor his contributions while condemning his anti-Semitism? Or is his legacy permanently tainted?
+
+2. The text argues the Reformation shifted from asking "What is God's essence?" to "What is God's will?" This sounds more biblical—but the debates (predestination, election) still used philosophical logic. Is this an improvement? Or just trading one philosophical system for another?
+
+3. The Anabaptists came closest to Jesus's teachings (non-violence, discipleship, simplicity) and were killed by both Catholics and Protestants. What does this reveal about whose Christianity is considered "orthodox"? Does orthodoxy correlate with power?
+
+4. Today there are 45,000+ Protestant denominations, compared to 2-3 main communions before the Reformation. The text attributes this to rejecting the Jerusalem Standard ("no further burden") in favor of requiring doctrinal precision. Is fragmentation an acceptable price for doctrinal clarity? Or did something go wrong?
+
+5. The Reformation coincided with colonialism, and Reformed theology was used to justify slavery, apartheid, and forced conversion. How did Christians justify these things while following Jesus? Does this reveal something structurally wrong with how we do theology?
+
+6. What would a true return to biblical theology look like? Would it focus on practical questions ("How do we follow Jesus?") rather than metaphysical ones ("What is God's essence?" or "How does predestination work?")? Can we have both?
+
+---
+
+## Part 6: The Holocaust (1933-1945)
 
 ### The Culmination of Christian Anti-Semitism
 The Holocaust was not a departure from Christian history. It was its horrifying culmination.
@@ -257,7 +578,7 @@ The answer: because Christian theology had taught for 1,800 years that Jews were
 
 ---
 
-## Part 6: The Glimmer of Hope
+## Part 7: The Glimmer of Hope
 
 ### Confronting the Horror
 After World War II, Christians could no longer avoid the question: What role did our theology play in the Holocaust?
@@ -309,7 +630,7 @@ After the Holocaust, churches began to acknowledge that Christian theology had c
 
 ---
 
-## Part 7: The Door Opens for Healing
+## Part 8: The Door Opens for Healing
 
 ### Jacob Neusner and the Academic Revolution (1970s)
 Around the same time that churches were repudiating anti-Semitism, something remarkable happened in academic scholarship.
@@ -371,14 +692,16 @@ Both are needed. Neither is sufficient alone. Together, they offer hope for reco
 
 ---
 
-## Part 8: This Is the Story We Find Ourselves In
+## Part 9: This Is the Story We Find Ourselves In
 
 ### Where We Stand
 We are the first generation in 1,800 years for whom healing is actually possible.
 
 **The Wound:**
 - AD 114-120: The betrayal and schism
-- 2nd-19th centuries: Pogroms, Crusades, Inquisition, expulsions
+- 2nd-16th centuries: Pogroms, Crusades, Inquisition, expulsions
+- 1517-1648: Protestant Reformation (fragmentation accelerates, anti-Semitism persists)
+- 1492-1900s: Colonial expansion and forced conversion
 - 1933-1945: The Holocaust
 - 1,800 years of violence rooted in theology
 

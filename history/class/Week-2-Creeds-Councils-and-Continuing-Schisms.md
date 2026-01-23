@@ -877,7 +877,7 @@ Now we can see the full pattern. Trace the line from Jerusalem Council to presen
 | **AD 431** | **Council of Ephesus** | Nestorius condemned over title of Mary | Church of the East separated (still separated today) |
 | **AD 451** | **Council of Chalcedon** | Two natures formula imposed | Oriental Orthodox separated (60 million, still separated) |
 | **AD 1054** | **Great Schism** | East and West excommunicate each other | Catholic and Orthodox split (still not in communion) |
-| **AD 1517** | **Protestant Reformation** | (Next week) Western church fractures again | Thousands of Protestant denominations |
+| **AD 1517** | **Protestant Reformation** | Luther, Calvin, Anabaptists break from Rome; philosophical shift (nominalism); anti-Semitism persists; colonial expansion | Western church fractures into 45,000+ Protestant denominations |
 
 **Do You See the Pattern?**
 
