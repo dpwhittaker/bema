@@ -7,26 +7,26 @@ This project archives the BEMA Discipleship podcast (https://www.bemadiscipleshi
 
 ### Per Season
 ```
-season N/
+season-N/
 ├── transcripts/
-│   ├── -01 - What Is BEMA.md
-│   ├── 000 - Introductory Lesson.md
-│   ├── 001 - Trust the Story.md
+│   ├── -01-What-Is-BEMA.md
+│   ├── 000-Introductory-Lesson.md
+│   ├── 001-Trust-the-Story.md
 │   └── ...
 ├── presentations/          (only episodes with presentations)
-│   ├── 001 - Trust the Story.pdf
-│   ├── 003 - Master the Beast.pdf
+│   ├── 001-Trust-the-Story.pdf
+│   ├── 003-Master-the-Beast.pdf
 │   └── ...
-├── -01 - What Is BEMA.md   (episode summaries)
-├── 000 - Introductory Lesson.md
-├── 001 - Trust the Story.md
+├── -01-What-Is-BEMA.md     (episode summaries)
+├── 000-Introductory-Lesson.md
+├── 001-Trust-the-Story.md
 └── ...
 ```
 
 ### Book Output
 ```
-bema/
-└── chapter NN.md
+history/
+└── chapter-NN.md
 ```
 
 ## File Naming Convention
@@ -38,9 +38,9 @@ bema/
 - Episode 42 → `042` (three digits)
 - Episode 123 → `123` (three digits)
 
-Format: `NNN - Episode Title.ext`
+Format: `NNN-Episode-Title.ext` (dash-separated, no spaces)
 
-Example: `-01 - What Is BEMA.md` sorts before `000 - Introductory Lesson.md`
+Example: `-01-What-Is-BEMA.md` sorts before `000-Introductory-Lesson.md`
 
 ## Workflow for Each Episode
 
@@ -69,14 +69,14 @@ Example: `-01 - What Is BEMA.md` sorts before `000 - Introductory Lesson.md`
    - Make all speaker names bold using regex:
      - Pattern: `^(\w+(?:\s+\w+)?:)` → `**$1**` (matches 1-2 words before colon at start of paragraph)
      - This captures any speaker name (hosts and guests)
-   - Save as: `season N/transcripts/NNN - Title.md`
+   - Save as: `season-N/transcripts/NNN-Title.md`
    - Preserve all dialogue verbatim
 
 4. **Download presentation** (if available):
    - Check the episode page for a presentation PDF link
    - Not all episodes have presentations - skip this step if none exists
    - If found, download PDF from S3 or provided link
-   - Save as: `season N/presentations/NNN - Title.pdf`
+   - Save as: `season-N/presentations/NNN-Title.pdf`
    - Use curl with `-L` flag for redirects
 
 5. **Create episode summary**:
@@ -89,7 +89,7 @@ Example: `-01 - What Is BEMA.md` sorts before `000 - Introductory Lesson.md`
      - Practical applications
      - Recommended resources
      - Study questions
-   - Save as: `season N/NNN - Title.md`
+   - Save as: `season-N/NNN-Title.md`
 
 ## Book Creation Process (Seasons 1-4)
 
@@ -113,7 +113,7 @@ Example: `-01 - What Is BEMA.md` sorts before `000 - Introductory Lesson.md`
    - **Scripture citations**: When referencing Scripture, quote it directly and include reference in parentheses
      - Example: Jesus prayed "that they may be one, as we are one" (John 17:22)
      - Use appropriate translation (ESV, NIV, NRSV as contextually appropriate)
-2. Save as: `bema/chapter NN.md` or `history/chapter NN.md`
+2. Save as: `history/chapter-NN.md`
 3. Use two-digit chapter numbers (01, 02, etc.)
 
 ## Technical Notes
