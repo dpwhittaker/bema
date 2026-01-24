@@ -20,7 +20,8 @@
   }
 
   /* Remove top margin from first heading */
-  h1:first-child {
+  .markdown-body > h1:first-of-type,
+  .container-lg > h1:first-of-type {
     margin-top: 0;
   }
 
