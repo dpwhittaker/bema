@@ -54,6 +54,8 @@ The theological foundation was laid at the top (councils, creeds, supersessionis
 
 The popes said, "Don't kill them." The people killed them anyway.
 
+**The words of the second millenia popes could not stand against the values indoctrinated by the first.**
+
 ### The Blood Libel and Local Violence
 Local priests spread vicious lies:
 - Jews kidnapped Christian children to use their blood in Passover rituals
