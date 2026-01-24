@@ -171,10 +171,11 @@
   main,
   article,
   .container,
+  .container-lg,
   .markdown-body {
     width: 100%;
     max-width: 100%;
-    margin: 0;
+    margin: 0 !important;
     padding: 0;
   }
 
