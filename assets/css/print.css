@@ -117,7 +117,8 @@
   .sidebar,
   .navigation,
   button,
-  .skip-to-content {
+  .skip-to-content,
+  .site-title {
     display: none !important;
   }
 
