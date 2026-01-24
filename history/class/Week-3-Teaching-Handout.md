@@ -33,107 +33,89 @@ All of this conveniently forgot that Jesus was Jewish, all the apostles were Jew
 
 ---
 
-## Part 2: Pogroms and Forced Conversions
+## Part 2: Medieval Violence — The Shift from Top-Down to Bottom-Up
 
-### Medieval Jewish Life
-Throughout the Middle Ages, Jews in Christian Europe faced:
-- Forced segregation into ghettos
-- Restrictions on professions (could not own land, join guilds)
-- Forced to wear identifying badges or hats
-- Blamed for plagues, droughts, and disasters
+### A Critical Distinction
 
-### The Blood Libel
-A vicious lie emerged: Jews kidnapped Christian children to use their blood in Passover rituals. This had no basis in reality (Jewish law strictly forbids consuming blood), but it provided excuse for massacre after massacre.
+**First Millennium (AD 100-1000): Top-Down Violence**
+- Church leadership sought imperial favor
+- Constantine, Theodosius, and emperors drove policy
+- Councils and creeds came from bishops and theologians
+- Violence was organized, official, imperial
 
-### Forced Conversions
-Jews faced a choice:
-- **Convert** to Christianity (become a *converso* or *marrano*)
-- **Leave** their homes, businesses, and communities
-- **Die** in pogroms
+**Second Millennium (1000-1945): Bottom-Up Violence**
+- Local priests spread hatred from pulpits
+- Common people carried out pogroms and massacres
+- Popes often issued orders *not* to kill or forcibly convert Jews
+- But those orders were weak, inconsistent, and ignored
 
-Many chose conversion to save their families. But even *conversos* were never fully trusted—the Inquisition would later target them specifically, suspecting them of secretly practicing Judaism.
+**The Pattern:**
+The theological foundation was laid at the top (councils, creeds, supersessionism). But the violence of the Middle Ages came from below—village priests preaching blood libel, peasants blaming Jews for plague, crusaders massacring "Christ-killers" on their way to Jerusalem.
 
-**The Theological Irony:**
-Christianity teaches that faith cannot be coerced, that genuine conversion requires free choice. Yet the church forced conversions through violence and threat, then punished those whose conversions were deemed insufficiently sincere.
+The popes said, "Don't kill them." The people killed them anyway.
 
----
+### The Blood Libel and Local Violence
+Local priests spread vicious lies:
+- Jews kidnapped Christian children to use their blood in Passover rituals
+- Jews poisoned wells, causing plagues
+- Jews were agents of the devil
+- Jewish suffering proved God had cursed them (deicide)
 
-## Part 3: The Crusades (1095-1291)
+This had no basis in reality (Jewish law strictly forbids consuming blood), but it provided excuse for massacre after massacre.
 
-### The Call and the Corruption
+**The Choice:**
+Jews faced: **Convert**, **Leave**, or **Die**
 
-**The Original Context:**
-- Byzantine Emperor Alexios I requested defensive military aid
-- Seljuk Turks had conquered Anatolia
-- Christians and Jews under Muslim rule faced persecution
-- Pope Urban II responded with multiple motivations: defensive aid, protect persecuted communities, perhaps mend the East-West Schism (1054)
+Many chose conversion to save their families. But even *conversos* were never fully trusted—the Inquisition later targeted them, suspecting secret Judaism.
 
-**Where It Went Wrong:**
-The Crusades might have remained a justified defensive war if they had limited scope to defending Byzantine territory. But that's not what happened.
+### The Crusades (1095-1291): Holy War Turns on Everyone
 
-### The Rhineland Massacres (1096)
-Before the First Crusade even reached Jerusalem, crusaders turned on Jews in Europe.
+**The Call:**
+Pope Urban II responded to Byzantine Emperor Alexios I's request for defensive aid against Seljuk Turks. It could have been a justified defensive war. It wasn't.
 
-The logic: "Why travel thousands of miles to fight the infidel when there are infidels right here? Let's kill the Christ-killers before we leave."
-
-**The Massacres:**
+**The Rhineland Massacres (1096):**
+Before crusaders even left Europe, they turned on Jews:
+- "Why travel thousands of miles to fight the infidel when there are infidels right here?"
 - Worms, Germany: 800 Jews murdered
 - Mainz, Germany: Over 1,000 Jews killed
-- Many other towns across the Rhineland
-- Jews offered the choice: convert or die
+- Jews offered: convert or die
 - Many chose mass suicide rather than forced baptism
 
-### Jerusalem 1099
-When crusaders captured Jerusalem, they slaughtered everyone:
-- Muslims killed in the streets
-- Jews burned alive in their synagogue
-- Eastern Christians killed because they looked like Muslims
-- Blood reportedly flowed ankle-deep
+**Jerusalem 1099:**
+When crusaders captured Jerusalem, they slaughtered everyone—Muslims, Jews, even Eastern Christians. Blood reportedly flowed ankle-deep. Then they attended Mass to thank God for their victory.
 
-The crusaders then attended Mass to thank God for their victory.
+**The Fourth Crusade (1204):**
+Never reached Jerusalem. Instead, crusaders sacked Constantinople—the Christian capital they were supposed to defend—murdering fellow Christians and shattering any hope of East-West reconciliation.
 
-### The Byzantine Betrayal
-The Fourth Crusade (1204) never reached Jerusalem. Instead:
-- Crusaders sacked Constantinople—the Christian capital they were supposed to defend
-- Looted churches, including Hagia Sophia
-- Murdered Eastern Orthodox Christians
-- Shattered any hope of East-West reconciliation
+**Different Memories:**
+- **Jews**: Massacres and forced conversions
+- **Muslims**: Western Christian invasion
+- **Byzantine Christians**: Betrayal
+- **Modern Western Christians**: Often blame it all on "the Catholics," missing that the theological framework (holy war, forced conversion, dehumanization) persisted in Protestant colonialism
 
-**Different Communities, Different Memories:**
-- **Jews** remember the Crusades as massacres and forced conversions
-- **Muslims** remember them as Western Christian invasion
-- **Byzantine Christians** remember them as betrayal
-- **Modern Western Christians** often blame them on "the Catholics"—missing that the theological framework (holy war, forced conversion, dehumanization) persisted in Protestant colonialism and conquest
+### The Spanish Inquisition and Expulsion (1478-1492)
+
+**The Inquisition:**
+Targeted *conversos*—Jews who had converted to Christianity, often under duress. Spied on families, investigated food practices, tortured suspects.
+
+**The Impossibility:**
+Refuse to convert → killed for being Jewish. Convert → suspected of being secretly Jewish. There was no safe path.
+
+**The Expulsion (1492):**
+Ferdinand and Isabella: All Jews must convert or leave Spain in four months. Cannot take gold or silver. An estimated 100,000-200,000 Jews fled.
+
+**The Lesson Ignored:**
+When you expel the people you've oppressed, you lose the chance to repent, to make amends, to heal. Spain chose purity over justice.
 
 ### **DISCUSSION BREAK**
 
-1. The First Crusade began with legitimate defensive justification but became horrific. How do justified defensive actions become unjustified atrocities? Where do we see this pattern today?
+1. The shift from top-down (imperial church) to bottom-up violence (local priests and mobs). Popes issued weak orders not to kill Jews, but violence happened anyway. What does this reveal about the relationship between official theology and popular practice?
 
 2. Different communities remember the Crusades differently. How does blaming them entirely on Catholics prevent corporate repentance and miss patterns in Protestant history?
 
 ---
 
-## Part 4: The Inquisition (1231-1834)
-
-### Enforcing Orthodoxy
-The Medieval Inquisition was established to root out heresy. The Spanish Inquisition (1478-1834) particularly targeted *conversos*—Jews who had converted to Christianity, often under duress.
-
-**The Impossibility:**
-If you refused to convert, you were killed for being Jewish. If you converted, you were suspected of being secretly Jewish and investigated by the Inquisition. There was no safe path.
-
-### The Spanish Expulsion (1492)
-Ferdinand and Isabella issued the Alhambra Decree:
-- All Jews must convert to Christianity or leave Spain
-- They had four months to decide
-- They could not take gold or silver with them
-- An estimated 100,000-200,000 Jews fled
-
-**The Lesson Ignored:**
-When you expel the people you've oppressed, you don't just lose their contributions—you lose the chance to repent, to make amends, to heal. Spain chose purity over justice, and everyone suffered.
-
----
-
-## Part 5: The Protestant Reformation (1517-1648) — The Pattern Repeats
+## Part 3: The Protestant Reformation (1517-1648) — The Pattern Repeats
 
 ### The Promise of Reform
 In 1517, Martin Luther nailed his 95 Theses to the church door in Wittenberg, launching the Protestant Reformation. The promise:
@@ -322,7 +304,7 @@ But that's not what happened. The Reformation repeated the pattern of Nicaea: ph
 
 ---
 
-## Part 6: The Holocaust (1933-1945)
+## Part 4: The Holocaust (1933-1945)
 
 ### The Culmination of Christian Anti-Semitism
 The Holocaust was not a departure from Christian history. It was its horrifying culmination.
@@ -359,7 +341,7 @@ The answer: because Christian theology had taught for 1,800 years that Jews were
 
 ---
 
-## Part 7: The Glimmer of Hope
+## Part 5: The Glimmer of Hope
 
 ### Confronting the Horror
 After World War II, Christians could no longer avoid the question: What role did our theology play in the Holocaust?
@@ -439,7 +421,7 @@ Modern scholarship recovering Jewish roots of Christianity:
 
 ---
 
-## Part 8: This Is the Story We Find Ourselves In
+## Part 6: This Is the Story We Find Ourselves In
 
 ### Where We Stand
 We are the first generation in 1,800 years for whom healing is actually possible.
