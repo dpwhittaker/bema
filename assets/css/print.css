@@ -19,6 +19,11 @@
     page-break-after: avoid;
   }
 
+  /* Remove top margin from first heading */
+  h1:first-child {
+    margin-top: 0;
+  }
+
   h2 {
     font-size: 14pt;
     line-height: 1.2;
