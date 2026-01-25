@@ -19,10 +19,9 @@
     page-break-after: avoid;
   }
 
-  /* Remove top margin from first heading */
-  .markdown-body > h1:first-of-type,
-  .container-lg > h1:first-of-type {
-    margin-top: 0;
+  /* Remove top margin from first visible heading (since site-title is hidden) */
+  h1:not(.site-title) {
+    margin-top: 0 !important;
   }
 
   h2 {
@@ -32,9 +31,20 @@
     page-break-after: avoid;
   }
 
-  /* Page break before each h2 except the first */
-  h2:not(:first-of-type) {
+  /* Page break before each h2, but skip first two and any with no-page-break class */
+  h2:not(:first-of-type):not(:nth-of-type(2)):not(.no-page-break) {
     page-break-before: always;
+  }
+
+  /* Manual page break support */
+  .page-break,
+  hr.page-break {
+    page-break-before: always;
+    border: none;
+    margin: 0;
+    padding: 0;
+    height: 0;
+    visibility: hidden;
   }
 
   h3 {
