@@ -15,13 +15,8 @@
   h1 {
     font-size: 18pt;
     line-height: 1.2;
-    margin: 12pt 0 8pt 0;
+    margin: 0pt 0 8pt 0;
     page-break-after: avoid;
-  }
-
-  /* Remove top margin from first visible heading (since site-title is hidden) */
-  h1:not(.site-title) {
-    margin-top: 0 !important;
   }
 
   h2 {
