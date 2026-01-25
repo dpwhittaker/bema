@@ -231,80 +231,31 @@ The answer: because Christian theology had taught for 1,800 years that Jews were
 ## Part 5: The Glimmer of Hope
 
 ### Confronting the Horror
-After World War II, Christians could no longer avoid the question: What role did our theology play in the Holocaust?
+After World War II, Christians could no longer avoid the question: What role did our theology play in the Holocaust? Some refused to ask, blaming everything except the anti-Semitism embedded in Christian teaching. But others looked honestly at the history and were horrified.
 
-Some refused to ask. They blamed Hitler, blamed Germany, blamed everything except the anti-Semitism embedded in Christian teaching.
+### Church Repentance (1965-Present)
 
-But others looked honestly at the history and were horrified by what they saw.
+In 1965, Vatican II issued *Nostra Aetate*, officially declaring that Jews are not collectively responsible for Jesus's death, are not rejected by God, and that anti-Semitism is condemned. **For the first time in 1,800 years, the Catholic Church officially repudiated supersessionism and theological anti-Semitism.**
 
-### Vatican II and Nostra Aetate (1965)
+Protestant denominations followed: Presbyterians repudiated supersessionism, Lutherans renounced Luther's anti-Semitic writings, Methodists affirmed God's covenant with the Jewish people. After the Holocaust, churches began to acknowledge that Christian theology had contributed to Jewish suffering and began to repent.
 
-**The Catholic Church's Response:**
-In 1965, the Second Vatican Council issued *Nostra Aetate* (In Our Time), declaring:
+### The Academic Revolution (1970s)
 
-1. The Jewish people are not collectively responsible for Jesus's death
-2. Jews are not rejected or cursed by God
-3. The church decries hatred and persecution of Jews
-4. Anti-Semitism is condemned
+Jewish scholar Jacob Neusner (1932-2016) opened dialogue between Jewish and Christian scholars after 1,800 years of separation. Christian academics began learning from Jewish scholars how to read Scripture in its original context, discovering the Jewishness of Jesus and Paul, rabbinic interpretation methods, and Second Temple Judaism.
 
-**What It Meant:**
-- The "Christ-killer" charge is false
-- Jews are still in covenant with God
-- Christians must oppose anti-Semitism
-- Dialogue and reconciliation are possible
+> "We never repaired that schism for 1,800 years... Now, 1,800 years later, these two worlds collide again, this Jewish and Gentile world, on a scholastic level." —Marty Solomon
 
-**For the first time in 1,800 years, the Catholic Church officially repudiated supersessionism and theological anti-Semitism.**
+Modern scholarship is now recovering the Jewish roots of Christianity (E.P. Sanders, N.T. Wright, Amy-Jill Levine, and countless others), rediscovering the Jewishness of Jesus's teachings, Paul's thoroughly Jewish theology, and the Hebrew worldview underlying Christian Scripture.
 
-### Protestant Responses
-Protestant denominations issued similar statements:
-- Presbyterian Church (USA) repudiated supersessionism
-- Evangelical Lutheran Church in America renounced Luther's anti-Semitic writings
-- United Methodist Church affirmed God's covenant with the Jewish people
+### The Danger
 
-**The Common Thread:**
-After the Holocaust, churches began to acknowledge that Christian theology had contributed to Jewish suffering. They began to repent.
-
-### Jacob Neusner and the Academic Revolution (1970s)
-
-**Jacob Neusner** (1932-2016):
-- Jewish literary scholar with Orthodox roots
-- Brought Christian scholars to the table with Jewish scholars
-- Opened a dialogue that had been closed for 1,800 years
-
-**The Breakthrough:**
-Academic Christians began learning from Jewish scholars:
-- How to read the Hebrew Bible in its original context
-- The Jewishness of Jesus and Paul
-- Rabbinic methods of interpretation
-- The richness of Second Temple Judaism
-
-**The Rediscovery:**
-> "We never repaired that schism for 1,800 years. We went down our own stream of thought, our own stream of consciousness. We had councils and reformations and great movements, but they were all very Gentile. Now, 1,800 years later, these two worlds collide again, this Jewish and Gentile world, on a scholastic level, on an academic level in the world of scholarship." —Marty Solomon, BEMA Podcast
-
-### The Recovery Begins
-Modern scholarship recovering Jewish roots of Christianity:
-- **E.P. Sanders**: *Paul and Palestinian Judaism* (1977)
-- **N.T. Wright**: Kingdom theology rooted in Second Temple Judaism
-- **Amy-Jill Levine**: Jewish perspectives on Jesus and the New Testament
-- Countless others
-
-**What's Being Recovered:**
-- The Jewishness of Jesus's teachings
-- Paul's thoroughly Jewish theology
-- The cultural context of the Gospels
-- The continuity between Old and New Testaments
-- The Hebrew worldview underlying Christian Scripture
-
-**The BEMA Podcast:**
-> "BEMA is not just indebted—this whole discussion would not happen without the work of Jacob Neusner, period." —Marty Solomon
+The scholarly tools used to recover the Jewish context (textual criticism, contextual analysis, grammatical-historical reading, original language exegesis) are the same tools liberal scholars use to question biblical truth. The different results come from different starting assumptions: "Does the Bible contain errors?" People often reject these valid methods simply because scholars they disagree with use them—throwing the baby out with the bathwater. Next week we'll examine whether it's possible to pursue a Jewish understanding of Scripture while holding to biblical inerrancy.
 
 ### **DISCUSSION BREAK**
 
-1. Vatican II's *Nostra Aetate* (1965) officially repudiated the "Christ-killer" charge and supersessionism. Why did it take until 1965? What changed after the Holocaust that made this possible?
+1. Why did it take until 1965 for the Catholic Church to repudiate the "Christ-killer" charge? What changed after the Holocaust?
 
-2. Jacob Neusner's work in the 1970s reopened dialogue between Jewish and Christian scholars after 1,800 years. Why is academic scholarship important for healing?
-
-3. We are "the first generation in 1,800 years for whom healing is actually possible." What makes our generation different?
+2. We are "the first generation in 1,800 years for whom healing is actually possible." What makes our generation different?
 
 ---
 
@@ -343,17 +294,6 @@ We inherit this history. We did not create these wounds, but we live in their af
 - Read Scripture through Jewish eyes again
 - Resist anti-Semitism in all its forms
 - Participate in healing
-
-### The Systematic Theology Connection
-This history is not just background for theology. It IS theology.
-
-**When we "deconstruct systematic theology," we must ask:**
-- Which systems were built without Jewish input?
-- Which doctrines absorbed Gnostic assumptions?
-- Which formulas require Greek philosophical training?
-- Which teachings contributed to violence?
-- What did we lose when we lost our Jewish teachers?
-- What would recovery look like?
 
 **This is the story we find ourselves in:**
 - Born into a church already separated from its Jewish roots for 1,900 years
