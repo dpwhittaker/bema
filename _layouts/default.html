@@ -26,5 +26,34 @@
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
+    <script>
+      // Enable print preview mode with ?print query parameter
+      if (window.location.search.includes('print')) {
+        var printRules = [];
+        Array.from(document.styleSheets).forEach(function(sheet) {
+          try {
+            Array.from(sheet.cssRules).forEach(function(rule) {
+              if (rule.media && rule.media.mediaText === 'print') {
+                Array.from(rule.cssRules).forEach(function(innerRule) {
+                  printRules.push(innerRule.cssText);
+                });
+              }
+            });
+          } catch(e) {}
+        });
+        if (printRules.length > 0) {
+          var style = document.createElement('style');
+          style.id = 'print-preview';
+          style.textContent = printRules.join('\n');
+          document.head.appendChild(style);
+
+          // Add indicator
+          var indicator = document.createElement('div');
+          indicator.style.cssText = 'position:fixed;top:10px;right:10px;background:#ff6b6b;color:white;padding:8px 12px;border-radius:4px;font-size:12px;z-index:9999;font-family:sans-serif;';
+          indicator.textContent = 'Print Preview Mode';
+          document.body.appendChild(indicator);
+        }
+      }
+    </script>
   </body>
 </html>
