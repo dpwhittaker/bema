@@ -3,8 +3,6 @@
 ## Opening Question
 Can the church repent of corporate sin? What does it mean to take responsibility for atrocities committed by Christians centuries ago? And is there hope for healing a wound 1,800 years in the making?
 
----
-
 ## Part 1: The Theological Foundation for Violence
 
 ### The Logic of Christian Anti-Semitism
@@ -35,8 +33,6 @@ All of this conveniently forgot that Jesus was Jewish, all the apostles were Jew
 
 ## Part 2: Medieval Violence — The Shift from Top-Down to Bottom-Up
 
-### A Critical Distinction
-
 **First Millennium (AD 100-1000): Top-Down Violence**
 - Church leadership sought imperial favor
 - Constantine, Theodosius, and emperors drove policy
@@ -44,31 +40,12 @@ All of this conveniently forgot that Jesus was Jewish, all the apostles were Jew
 - Violence was organized, official, imperial
 
 **Second Millennium (1000-1945): Bottom-Up Violence**
-- Local priests spread hatred from pulpits
+- Local priests accused Jews of kidnapping children for blood rituals, poisoning wells, etc.
 - Common people carried out pogroms and massacres
 - Popes often issued orders *not* to kill or forcibly convert Jews
 - But those orders were weak, inconsistent, and ignored
 
-**The Pattern:**
-The theological foundation was laid at the top (councils, creeds, supersessionism). But the violence of the Middle Ages came from below—village priests preaching blood libel, peasants blaming Jews for plague, crusaders massacring "Christ-killers" on their way to Jerusalem.
-
-The popes said, "Don't kill them." The people killed them anyway.
-
-**The words of the second millenia popes could not stand against the values indoctrinated by the first.**
-
-### The Blood Libel and Local Violence
-Local priests spread vicious lies:
-- Jews kidnapped Christian children to use their blood in Passover rituals
-- Jews poisoned wells, causing plagues
-- Jews were agents of the devil
-- Jewish suffering proved God had cursed them (deicide)
-
-This had no basis in reality (Jewish law strictly forbids consuming blood), but it provided excuse for massacre after massacre.
-
-**The Choice:**
-Jews faced: **Convert**, **Leave**, or **Die**
-
-Many chose conversion to save their families. But even *conversos* were never fully trusted—the Inquisition later targeted them, suspecting secret Judaism.
+The tenuous suggestions of the second millenia popes could not stand against the values indoctrinated by the first.
 
 ### The Crusades (1095-1291): Holy War Turns on Everyone
 
@@ -76,24 +53,13 @@ Many chose conversion to save their families. But even *conversos* were never fu
 Pope Urban II responded to Byzantine Emperor Alexios I's request for defensive aid against Seljuk Turks. It could have been a justified defensive war. It wasn't.
 
 **The Rhineland Massacres (1096):**
-Before crusaders even left Europe, they turned on Jews:
-- "Why travel thousands of miles to fight the infidel when there are infidels right here?"
-- Worms, Germany: 800 Jews murdered
-- Mainz, Germany: Over 1,000 Jews killed
-- Jews offered: convert or die
-- Many chose mass suicide rather than forced baptism
+Before crusaders even left Europe, they turned on Jews, finding the "enemies of God" in their back yard a good way to begin doing "God's work".
 
 **Jerusalem 1099:**
 When crusaders captured Jerusalem, they slaughtered everyone—Muslims, Jews, even Eastern Christians. Blood reportedly flowed ankle-deep. Then they attended Mass to thank God for their victory.
 
 **The Fourth Crusade (1204):**
 Never reached Jerusalem. Instead, crusaders sacked Constantinople—the Christian capital they were supposed to defend—murdering fellow Christians and shattering any hope of East-West reconciliation.
-
-**Different Memories:**
-- **Jews**: Massacres and forced conversions
-- **Muslims**: Western Christian invasion
-- **Byzantine Christians**: Betrayal
-- **Modern Western Christians**: Often blame it all on "the Catholics," missing that the theological framework (holy war, forced conversion, dehumanization) persisted in Protestant colonialism
 
 ### The Spanish Inquisition and Expulsion (1478-1492)
 
@@ -112,8 +78,6 @@ When you expel the people you've oppressed, you lose the chance to repent, to ma
 ### **DISCUSSION BREAK**
 
 1. The shift from top-down (imperial church) to bottom-up violence (local priests and mobs). Popes issued weak orders not to kill Jews, but violence happened anyway. What does this reveal about the relationship between official theology and popular practice?
-
-2. Different communities remember the Crusades differently. How does blaming them entirely on Catholics prevent corporate repentance and miss patterns in Protestant history?
 
 ---
 
@@ -135,7 +99,7 @@ In 1517, Martin Luther nailed his 95 Theses to the church door in Wittenberg, la
 - The Reformation didn't abandon Greek philosophy—it exchanged one philosophical system for another
 - **Late Medieval Nominalism** (via William of Ockham) replaced Aristotelian/Thomistic synthesis
 - **The Shift:** From "What is God's essence?" to "What is God's will?"
-- This sounds more biblical—but it's still a philosophical lens, not a return to Hebrew categories
+- This view of God emphasized His freedom and sovereignty. Predestination is the new Trinity.
 
 **Thread 2: Anti-Semitism Intensifies**
 - The Reformers perpetuated and amplified Christian anti-Semitism
@@ -159,59 +123,13 @@ In 1517, Martin Luther nailed his 95 Theses to the church door in Wittenberg, la
 ### The Reformers and Their Ideas
 
 #### Martin Luther (1483-1546)
-
-**What Was Recovered:**
-- Scripture in the people's language ✓
-- Justification by faith (not purchased through indulgences) ✓
-- Direct access to God without priestly mediation ✓
-
-**Philosophical Influences:**
-- Deeply influenced by **Nominalism** (especially via Gabriel Biel)
-- Focus shifted from God's essence to God's will and power
-- Emphasized God's sovereignty and human inability (total depravity)
-- Predestination: God's will determines who is saved
-
-**Assessment:**
-- **Returned to biblical theology?** Partially. *Sola scriptura* and justification by faith are biblically grounded.
-- **Perpetuated Greek philosophy?** Yes. Still debating predestination, free will, and God's sovereignty using philosophical categories.
-- **Anti-Semitism:** Not only perpetuated but amplified. Luther's recommendations were implemented by the Nazis 400 years later.
+Recovered Scripture in the vernacular, justification by faith alone, and direct access to God without priestly mediation—profoundly biblical contributions. But his virulent anti-Semitism intensified (1543's *On the Jews and Their Lies* recommended burning synagogues and destroying Jewish homes), giving theological cover that the Nazis quoted 400 years later.
 
 #### John Calvin (1509-1564)
-
-**Key Ideas:**
-- **TULIP** (Five Points of Calvinism): Total depravity, Unconditional election, Limited atonement, Irresistible grace, Perseverance of the saints
-- God's absolute sovereignty over all things
-- Covenant theology — God relates to humanity through covenants
-
-**The Tragic Irony:**
-Calvin argued against Catholic use of force to enforce doctrine, but then:
-- Established a theocracy in Geneva with strict moral enforcement
-- Supported execution of heretics (including Michael Servetus, burned at stake in 1553 for denying the Trinity)
-
-**Assessment:**
-- **Returned to biblical theology?** Mixed. Covenant theology recovers some biblical categories. But TULIP debates use philosophical logic more than biblical narrative.
-- **Perpetuated Greek philosophy?** Yes. Predestination and election debated using Aristotelian logic and Augustinian metaphysics.
+Developed systematic theology emphasizing God's absolute sovereignty (TULIP: Total depravity, Unconditional election, Limited atonement, Irresistible grace, Perseverance of saints) and covenant theology. Argued against Catholic use of force to enforce doctrine, then established a theocracy in Geneva and prosecuted heretics (Michael Servetus burned at stake in 1553 for questioning the Trinity and infant baptism).
 
 #### The Radical Reformation (Anabaptists)
-
-**Key Ideas:**
-- Believer's baptism (not infant baptism)
-- Separation of church and state
-- Pacifism and refusal to swear oaths
-- Simple living and community of goods
-
-**The Cost:**
-Anabaptists were persecuted by both Catholics AND Protestants:
-- Drowned (ironic "rebaptism") by Protestant authorities
-- Burned by Catholic authorities
-- Thousands martyred
-
-**Assessment:**
-- **Returned to biblical theology?** Arguably closest to Jesus's teachings among Reformation movements. Emphasis on discipleship, simplicity, non-violence, and community reflects Sermon on the Mount.
-- **Perpetuated Greek philosophy?** Least philosophical of all Reformation movements. Focused on practical obedience.
-
-**The Irony:**
-The group that most closely followed Jesus's teachings (enemy love, non-violence, simplicity) was killed by both Catholic and Protestant Christians. The Jerusalem Standard—"no further burden"—was violated by those who claimed to be reforming the church.
+Emphasized believer's baptism, separation of church and state, pacifism, simple living, and community—arguably closest to Jesus's Sermon on the Mount teachings. Persecuted and killed by both Catholics AND Protestants (drowned, burned, thousands martyred) for following Jesus's enemy-love and non-violence too literally.
 
 ### The Fragmentation Accelerates
 
