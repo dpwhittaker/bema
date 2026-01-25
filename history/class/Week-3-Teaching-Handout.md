@@ -133,37 +133,20 @@ Emphasized believer's baptism, separation of church and state, pacifism, simple 
 
 ### The Fragmentation Accelerates
 
-**The Protestant Pattern:**
-- Decentralized authority: *sola scriptura* + priesthood of believers
-- Every believer can interpret Scripture
-- Result: Exponential fragmentation
-
-**The Sad Math:**
-- Catholic and Orthodox: 2 main communions (plus Oriental Orthodox = 3)
+- **The Protestant Pattern:** Decentralized authority
+- *sola scriptura* + priesthood of believers = Every believer can interpret Scripture
+- Before: 6 main communions (Roman, Eastern, Oriental, Church of the East, Ethiopian, Coptic)
 - Protestant denominations today: **45,000+** (World Christian Encyclopedia)
-
-**What Happened?**
-Once you establish that unity requires perfect doctrinal agreement, and you give every believer authority to interpret Scripture, fragmentation is inevitable. Every theological dispute becomes grounds for split.
-
-The Jerusalem Council said "no further burden." The Reformation said "these doctrines are essential." Then each group defined "essential" differently.
 
 ### The Colonialism Connection (Thread 3: The New Empire)
 
 The Reformation coincided with European colonial expansion. Watch how Thread 3 (empire) operates:
 
-**Spanish and Portuguese Empires (Catholic):**
-- 1492: Columbus sails; Spanish Inquisition expels Jews
-- Colonial conquest justified as spreading Christianity
-- Forced conversion of indigenous peoples
+**Spanish and Portuguese Empires (Catholic):** In 1492, Columbus sailed and the Spanish Inquisition expelled Jews; colonial conquest was justified as spreading Christianity through forced conversion of indigenous peoples.
 
-**British Empire (Protestant/Anglican):**
-- Colonial expansion justified as spreading "civilization" and the gospel
-- Transatlantic slave trade justified biblically (Ham's curse, Philemon reinterpreted)
-- Residential schools (continuing into 20th century) forcibly removed children from families
+**British Empire (Protestant/Anglican):** Colonial expansion was justified as spreading "civilization" and the gospel, while the transatlantic slave trade was justified biblically (Ham's curse, Philemon reinterpreted) and residential schools forcibly removed indigenous children from families well into the 20th century.
 
-**Dutch Empire (Reformed/Calvinist):**
-- Dutch East India Company spread Calvinism alongside trade
-- South African apartheid later justified using Reformed theology
+**Dutch Empire (Reformed/Calvinist):** The Dutch East India Company spread Calvinism alongside trade, and later South African apartheid was justified using Reformed theology.
 
 **The Pattern:**
 Empire still shapes theology. The difference: now multiple empires back competing Christian traditions. And all perpetuate:
@@ -194,23 +177,7 @@ Empire still shapes theology. The difference: now multiple empires back competin
 - Justification for slavery and colonialism (new philosophical/theological frameworks)
 - Anti-Semitism: Luther's writings gave theological cover to genocide
 
-### The Jerusalem Standard—Still Ignored
-
-Imagine if the Reformers had followed the Jerusalem Council:
-
-**Instead of:**
-"We will create detailed systematic theologies. Those who disagree are heretics. We'll establish competing churches."
-
-**They could have said:**
-"We all confess Jesus as Lord. We disagree about predestination, baptism methods, church governance. It seems good to the Holy Spirit and to us to impose no further burden. Let's stay in communion while we work through these questions."
-
-**The Result:**
-- Protestant, Catholic, and Orthodox might have remained in dialogue
-- Diversity of worship and theology within one body
-- No need for 45,000 denominations
-- Fellowship based on Jesus, not perfect doctrinal agreement
-
-But that's not what happened. The Reformation repeated the pattern of Nicaea: philosophical precision, forced uniformity (within each tradition), and division enforced by power.
+The Reformation repeated the pattern of Nicaea: philosophical precision, forced uniformity (within each tradition), and division enforced by power.
 
 ### **DISCUSSION BREAK**
 
